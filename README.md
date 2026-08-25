@@ -3,7 +3,7 @@
 Source-controlled north star for Sander's job search. This repo holds exactly
 three files:
 
-- `SanderVanWilligenDE.pdf` — current resume.
+- `SanderVanWilligenDE.md` — current resume.
 - `data_eng_job_search.csv` — running prospect list (jobs to consider / apply to).
 - `job_applications.csv` — application tracker (the source of truth for the
   "Daily Job Tracker" Claude Routine, which reads, updates, commits, and emails it).
