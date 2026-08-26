@@ -1,4 +1,7 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Waymark,Senior/Principal Data Engineer,2026-08-25,Greenhouse,Pending,null,null
+SimplePractice,null,2026-08-25,Greenhouse,Pending,null,Role not named in confirmation email
+Quanata,null,2026-08-25,Greenhouse,Pending,null,Role not named in confirmation email
 Twilio,"Staff, Business Intelligence Engineer",2026-08-24,Company careers site,Pending,null,Applied directly via company careers site per Sander's own note (email to self); no confirmation email received yet
 Gemini,Senior Data Platform Engineer,2026-08-24,Company careers site,Pending,null,null
 Gemini,Senior Data Engineer,2026-08-24,Company careers site,Pending,null,null
@@ -9,7 +12,7 @@ SpaceXAI,null,2026-08-24,Company careers site,Pending,null,Confirmation branded 
 Nous Research,Software Engineer,2026-08-23,Direct email,Pending,null,Second Nous Research application (also applied to Product Analytics Engineer on 2026-08-14)
 ZoomInfo,"Senior Software Engineer, Data Infrastructure",2026-08-23,Company careers site,Pending,null,null
 Poolside,null,2026-08-22,Ashby,Pending,null,Role not named in confirmation email
-Kin Insurance,Staff Analytics Engineer,2026-08-22,Ashby,Pending,null,null
+Kin Insurance,Staff Analytics Engineer,2026-08-22,Ashby,Rejected,2026-08-25,null
 Arcadia,Lead Analytics Engineer - Data Modeling & Quality,2026-08-22,Lever,Pending,null,null
 IMO Health,null,2026-08-22,Lever,Pending,null,Role not named in confirmation email
 OpenRouter,Applied AI Engineer,2026-08-22,Ashby,Pending,null,"Second OpenRouter application (also applied to Software Engineer, Platform on 2026-08-03)"
@@ -60,8 +63,9 @@ SentinelOne,Staff AI Platform Engineer,2026-08-10,Company careers site,Pending,n
 Aledade,Senior Software Engineer II - Ingestion AI Engineer,2026-08-10,Lever,Pending,null,null
 SpyCloud,Senior Data Engineer,2026-08-10,Greenhouse,Rejected,2026-08-13,null
 CoreWeave,Staff Data Engineer - Data Engineering,2026-08-10,Greenhouse,Pending,null,null
-Omada Health,null,2026-08-09,Greenhouse,Pending,null,Role not named in confirmation email
-Chartis,Senior Data Platform Engineer (Observability),2026-08-09,Ashby,Pending,null,null
+NVIDIA,"Senior Data Engineer, Engineering Data Analytics (JR2020545)",2026-08-10,Workday,Rejected,2026-08-10,null
+Omada Health,"Senior Software Engineer, Data & AI Platform",2026-08-09,Greenhouse,Rejected,2026-08-25,Role name from rejection email (confirmation email did not name it)
+Chartis,Senior Data Platform Engineer (Observability),2026-08-09,Ashby,Rejected,2026-08-25,null
 Hightouch,null,2026-08-08,Greenhouse,Pending,null,Role not named in confirmation email
 Patreon,null,2026-08-08,Ashby,Pending,null,General talent pool; role not named
 Hack The Box,Senior Data Engineer,2026-08-08,Workable,Pending,null,null
@@ -80,4 +84,3 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Pending,null,null
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Pending,null,null
-NVIDIA,"Senior Data Engineer, Engineering Data Analytics (JR2020545)",2026-08-10,Workday,Rejected,2026-08-10,null
