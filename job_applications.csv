@@ -1,6 +1,9 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Oneleet,GTM Engineer - Data & Attribution,2026-08-26,Ashby,Pending,null,null
+Vanta,Senior Data Engineer,2026-08-26,Ashby,Pending,null,Second Vanta application (also applied to Senior Analytics Engineer on 2026-08-16)
+Censys,null,2026-08-26,Greenhouse,Pending,null,Role not named in confirmation email
 Waymark,Senior/Principal Data Engineer,2026-08-25,Greenhouse,Pending,null,null
-SimplePractice,null,2026-08-25,Greenhouse,Pending,null,Role not named in confirmation email
+SimplePractice,null,2026-08-25,Greenhouse,Rejected,2026-08-27,Role not named in confirmation email
 Quanata,null,2026-08-25,Greenhouse,Pending,null,Role not named in confirmation email
 Twilio,"Staff, Business Intelligence Engineer",2026-08-24,Company careers site,Pending,null,Applied directly via company careers site per Sander's own note (email to self); no confirmation email received yet
 Gemini,Senior Data Platform Engineer,2026-08-24,Company careers site,Pending,null,null
@@ -44,7 +47,7 @@ Cribl,Staff Data Engineer,2026-08-15,Greenhouse,Pending,null,null
 Nous Research,Product Analytics Engineer,2026-08-14,Direct email,Pending,null,Applied by emailing recruiting@nousresearch.com
 Shovels,Senior Data & Platform Engineer,2026-08-14,Direct email,Pending,null,Applied by emailing luka@shovels.ai
 Robert Half,Staff Data Platform Engineer,2026-08-14,Dice,Pending,null,Applied via Dice
-Humana,Lead Data Engineer - Primary Care (R-416497),2026-08-14,Workday,Pending,null,Also sent an application-experience survey on 08-14
+Humana,Lead Data Engineer - Primary Care (R-416497),2026-08-14,Workday,Rejected,2026-08-26,Also sent an application-experience survey on 08-14
 Guidehouse,Lead AI Software Engineer,2026-08-13,Workday,Pending,null,null
 SentinelOne,"Senior Staff Software Engineer, On-prem",2026-08-13,Company careers site,Pending,null,null
 Nextdoor,null,2026-08-12,Greenhouse,Rejected,2026-08-18,Role not named in confirmation email
@@ -55,7 +58,7 @@ GDIT,Lead Data Engineer (RQ226016),2026-08-12,Workday,Pending,null,null
 HubSpot,Staff Analytics Engineer,2026-08-12,Company careers site,Rejected,2026-08-14,null
 Recorded Future,Principal Software Engineer,2026-08-12,Greenhouse,Pending,null,null
 Palo Alto Networks,Principal IT Data Engineer - Finance,2026-08-12,Workday,Pending,null,null
-CrowdStrike,"Sr. Software Engineer, Cloud - Analytics Platform",2026-08-12,Workday,Pending,null,null
+CrowdStrike,"Sr. Software Engineer, Cloud - Analytics Platform",2026-08-12,Workday,Rejected,2026-08-27,null
 Rula,Sr. Analytics Engineer (Remote),2026-08-11,Ashby,Pending,null,null
 Coinbase,"Senior Staff Software Engineer, Data Platform",2026-08-11,Company careers site,Rejected,2026-08-12,null
 Circle,null,2026-08-11,Company careers site,Pending,null,Role not named in confirmation email
