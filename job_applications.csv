@@ -1,4 +1,9 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Perplexity,null,2026-08-30,Ashby,Pending,null,Role not named in confirmation email
+LaunchDarkly,null,2026-08-30,Greenhouse,Pending,null,Role not named in confirmation email
+KoBold Metals,null,2026-08-30,Company careers site,Pending,null,Role not named in confirmation email
+Confluent,"Principal I, Engineering",2026-08-30,Ashby,Pending,null,null
+Aurora Solar,Staff Analytics Engineer,2026-08-30,Ashby,Pending,null,null
 phData,null,2026-08-29,Greenhouse,Pending,null,Role not named in confirmation email
 Redapt,null,2026-08-29,Greenhouse,Pending,null,Role not named in confirmation email
 Zencore,"Principal Architect, AI/ML",2026-08-29,Lever,Pending,null,null
@@ -7,7 +12,7 @@ Ulta Beauty,Sr Data Engineer (Remote),2026-08-28,iCIMS,Pending,null,null
 Vercel,"Member of the Technical Staff, Internal Agent",2026-08-28,Company careers site,Pending,null,null
 GitLab,Senior AI Engineer,2026-08-28,Greenhouse,Pending,null,null
 Pinecone,null,2026-08-28,Ashby,Pending,null,Role not named in confirmation email
-Elastic,Agentic AI Engineer,2026-08-28,Company careers site,Pending,null,null
+Elastic,Agentic AI Engineer,2026-08-28,Company careers site,Rejected,2026-08-30,null
 Prolego,GenAI Systems Developer,2026-08-28,Ashby,Pending,null,null
 Rearc,Lead Data Engineer,2026-08-28,Ashby,Pending,null,null
 Horizon3,"Senior Software Engineer, Agentic Systems",2026-08-27,Ashby,Pending,null,null
