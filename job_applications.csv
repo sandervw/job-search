@@ -1,4 +1,7 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Qventus,Senior Data Engineer,2026-08-31,Greenhouse,Pending,null,null
+Owner.com,"Senior Software Engineer, Data Platform",2026-08-31,Ashby,Pending,null,null
+General Mills,Lead Machine Learning Engineer - Remote Eligible,2026-08-31,Workday,Pending,null,null
 Perplexity,null,2026-08-30,Ashby,Pending,null,Role not named in confirmation email
 LaunchDarkly,null,2026-08-30,Greenhouse,Pending,null,Role not named in confirmation email
 KoBold Metals,null,2026-08-30,Company careers site,Pending,null,Role not named in confirmation email
@@ -21,7 +24,7 @@ Dragos,Staff AI/ML Engineer,2026-08-27,Company careers site,Pending,null,null
 Stitch Fix,ML Platform Engineer,2026-08-27,Company careers site,Pending,null,null
 GOAT Group,Senior Data Engineer,2026-08-27,Company careers site,Pending,null,null
 Oneleet,GTM Engineer - Data & Attribution,2026-08-26,Ashby,Pending,null,null
-Vanta,Senior Data Engineer,2026-08-26,Ashby,Pending,null,Second Vanta application (also applied to Senior Analytics Engineer on 2026-08-16)
+Vanta,Senior Data Engineer,2026-08-26,Ashby,Rejected,2026-08-31,Second Vanta application (also applied to Senior Analytics Engineer on 2026-08-16)
 Censys,null,2026-08-26,Greenhouse,Pending,null,Role not named in confirmation email
 Drata,null,2026-08-26,Ashby,Pending,null,Role not named in confirmation email
 Waymark,Senior/Principal Data Engineer,2026-08-25,Greenhouse,Pending,null,null
@@ -42,8 +45,8 @@ Arcadia,Lead Analytics Engineer - Data Modeling & Quality,2026-08-22,Lever,Pendi
 IMO Health,null,2026-08-22,Lever,Pending,null,Role not named in confirmation email
 OpenRouter,Applied AI Engineer,2026-08-22,Ashby,Pending,null,"Second OpenRouter application (also applied to Software Engineer, Platform on 2026-08-03)"
 ServiceNow,Sr Data Analytics Mgr. Paid Media Campaigns,2026-08-21,SmartRecruiters,Rejected,2026-08-21,null
-Nextdoor,null,2026-08-21,Greenhouse,Pending,null,"Role not named in confirmation email; second application to Nextdoor (first, from 2026-08-12, was rejected 2026-08-18)"
-ClickHouse,null,2026-08-21,Greenhouse,Pending,null,Role not named in confirmation email
+Nextdoor,Senior Analytics Engineering Manager,2026-08-21,Greenhouse,Rejected,2026-08-31,"Role name from rejection email (confirmation email did not name it); second application to Nextdoor (first, from 2026-08-12, was rejected 2026-08-18)"
+ClickHouse,AI Operations Engineer,2026-08-21,Greenhouse,Rejected,2026-08-31,Role name from rejection email (confirmation email did not name it)
 Prominent,Data & Analytics Manager,2026-08-21,Dice,Interview,2026-08-21,Applied via Dice; received interview invitation same day from alex@recruiting.goprominent.com
 GitHub,Senior Data Scientist (2026-5719),2026-08-20,iCIMS,Pending,null,null
 Wrapbook,Senior Analytics Engineer II,2026-08-20,Ashby,Pending,null,They requested an NDA form before proceeding - needs a reply from you
