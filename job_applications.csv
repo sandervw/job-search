@@ -1,4 +1,9 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+ServiceNow,Sr Staff AI Engineer - Veza,2026-09-01,SmartRecruiters,Pending,null,"Second ServiceNow application (also applied to Sr Data Analytics Mgr. Paid Media Campaigns on 2026-08-21, rejected)"
+Vannevar,Senior Software Engineer - Agents Platform,2026-09-01,Greenhouse,Pending,null,null
+OneSix,null,2026-09-01,Greenhouse,Pending,null,Role not named in confirmation email; posting labeled 'OneSix - External'
+Ohr,Data Engineer,2026-09-01,Ashby,Pending,null,null
+Re:Build Manufacturing,Senior AI Engineer,2026-09-01,Greenhouse,Pending,null,Role at one of Re:Build's family of businesses; specific subsidiary not named
 Qventus,Senior Data Engineer,2026-08-31,Greenhouse,Pending,null,null
 Owner.com,"Senior Software Engineer, Data Platform",2026-08-31,Ashby,Pending,null,null
 General Mills,Lead Machine Learning Engineer - Remote Eligible,2026-08-31,Workday,Pending,null,null
@@ -13,7 +18,7 @@ Zencore,"Principal Architect, AI/ML",2026-08-29,Lever,Pending,null,null
 Solvd,Forward Deployed Engineer - Agentic AI,2026-08-28,Ashby,Pending,null,null
 Ulta Beauty,Sr Data Engineer (Remote),2026-08-28,iCIMS,Pending,null,null
 Vercel,"Member of the Technical Staff, Internal Agent",2026-08-28,Company careers site,Pending,null,null
-GitLab,Senior AI Engineer,2026-08-28,Greenhouse,Pending,null,null
+GitLab,Senior AI Engineer,2026-08-28,Greenhouse,Rejected,2026-09-01,null
 Pinecone,null,2026-08-28,Ashby,Pending,null,Role not named in confirmation email
 Elastic,Agentic AI Engineer,2026-08-28,Company careers site,Rejected,2026-08-30,null
 Prolego,GenAI Systems Developer,2026-08-28,Ashby,Pending,null,null
@@ -33,7 +38,7 @@ Quanata,null,2026-08-25,Greenhouse,Pending,null,Role not named in confirmation e
 Twilio,"Staff, Business Intelligence Engineer",2026-08-24,Company careers site,Pending,null,Applied directly via company careers site per Sander's own note (email to self); no confirmation email received yet
 Gemini,Senior Data Platform Engineer,2026-08-24,Company careers site,Pending,null,null
 Gemini,Senior Data Engineer,2026-08-24,Company careers site,Pending,null,null
-Instacart,"Senior Data Engineer II, Finance",2026-08-24,Company careers site,Pending,null,null
+Instacart,"Senior Data Engineer II, Finance",2026-08-24,Company careers site,Rejected,2026-09-02,null
 Together AI,null,2026-08-24,Greenhouse,Pending,null,Role not named in confirmation email
 SSI,null,2026-08-24,Ashby,Pending,null,General Technical Staff talent pool; role not named specifically
 SpaceXAI,null,2026-08-24,Company careers site,Pending,null,Confirmation branded 'SpaceXAI'; sender domain is x.ai (xAI) per legal notice in the email - role not named
@@ -63,7 +68,7 @@ Horizontal Talent,Senior AI Engineer (Job ID 75608),2026-08-16,Company careers s
 Motion Recruitment,"Senior Analytics Engineer - Robotics Intelligence (Somerville, MA)",2026-08-16,Dice,Pending,null,Applied via Dice; staffing agency
 EnergyHub,null,2026-08-16,Greenhouse,Pending,null,Role not named in confirmation email
 Shield AI,"Senior Data & Analytics Engineer, Domain Enablement (R5536)",2026-08-16,Lever,Rejected,2026-08-17,null
-Vanta,Senior Analytics Engineer,2026-08-16,Ashby,Pending,null,null
+Vanta,Senior Analytics Engineer,2026-08-16,Ashby,Rejected,2026-09-01,null
 Metabase,Analytics Engineer,2026-08-16,Lever,Pending,null,null
 Velir,Senior Data and Analytics Engineer,2026-08-15,Company careers site,Pending,null,null
 Aimpoint Digital,Senior AI Engineer 2026 - US,2026-08-15,Breezy,Pending,null,null
