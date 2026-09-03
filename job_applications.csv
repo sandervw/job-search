@@ -1,12 +1,19 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Horizon3,Senior Data Infrastructure Engineer,2026-09-02,Ashby,Pending,null,"Second Horizon3 application (also applied to Senior Software Engineer, Agentic Systems on 2026-08-27)"
+Onebrief,Staff Simulation Data Modeler,2026-09-02,Ashby,Pending,null,null
+Webflow,null,2026-09-02,Company careers site,Pending,null,Role not named in confirmation email
+Honeycomb,Senior Software Engineer II - Agentic Intelligence,2026-09-02,Company careers site,Pending,null,null
+Databricks,AI Engineer — GTM Analytics,2026-09-02,Greenhouse,Pending,null,null
+WorkHero,"Senior Software Engineer, Voice AI & Data Infrastructure",2026-09-02,Ashby,Pending,null,null
 ServiceNow,Sr Staff AI Engineer - Veza,2026-09-01,SmartRecruiters,Pending,null,"Second ServiceNow application (also applied to Sr Data Analytics Mgr. Paid Media Campaigns on 2026-08-21, rejected)"
 Vannevar,Senior Software Engineer - Agents Platform,2026-09-01,Greenhouse,Pending,null,null
-OneSix,null,2026-09-01,Greenhouse,Pending,null,Role not named in confirmation email; posting labeled 'OneSix - External'
+OneSix,Lead Engineer,2026-09-01,Greenhouse,Rejected,2026-09-02,null
 Ohr,Data Engineer,2026-09-01,Ashby,Pending,null,null
 Re:Build Manufacturing,Senior AI Engineer,2026-09-01,Greenhouse,Pending,null,Role at one of Re:Build's family of businesses; specific subsidiary not named
 Qventus,Senior Data Engineer,2026-08-31,Greenhouse,Pending,null,null
 Owner.com,"Senior Software Engineer, Data Platform",2026-08-31,Ashby,Pending,null,null
 General Mills,Lead Machine Learning Engineer - Remote Eligible,2026-08-31,Workday,Pending,null,null
+Fieldwire,AI/ML Engineer,2026-08-31,Greenhouse,Rejected,2026-09-02,Company identified via prospect-list cross-reference; confirmation email did not name the company
 Perplexity,null,2026-08-30,Ashby,Pending,null,Role not named in confirmation email
 LaunchDarkly,null,2026-08-30,Greenhouse,Pending,null,Role not named in confirmation email
 KoBold Metals,null,2026-08-30,Company careers site,Pending,null,Role not named in confirmation email
@@ -32,7 +39,7 @@ Oneleet,GTM Engineer - Data & Attribution,2026-08-26,Ashby,Pending,null,null
 Vanta,Senior Data Engineer,2026-08-26,Ashby,Rejected,2026-08-31,Second Vanta application (also applied to Senior Analytics Engineer on 2026-08-16)
 Censys,null,2026-08-26,Greenhouse,Pending,null,Role not named in confirmation email
 Drata,null,2026-08-26,Ashby,Pending,null,Role not named in confirmation email
-Waymark,Senior/Principal Data Engineer,2026-08-25,Greenhouse,Pending,null,null
+Waymark,Senior/Principal Data Engineer,2026-08-25,Greenhouse,Rejected,2026-09-01,null
 SimplePractice,null,2026-08-25,Greenhouse,Rejected,2026-08-27,Role not named in confirmation email
 Quanata,null,2026-08-25,Greenhouse,Pending,null,Role not named in confirmation email
 Twilio,"Staff, Business Intelligence Engineer",2026-08-24,Company careers site,Pending,null,Applied directly via company careers site per Sander's own note (email to self); no confirmation email received yet
@@ -63,7 +70,7 @@ Anthropic,"Staff+ Software Engineer, Data Infrastructure",2026-08-18,Greenhouse,
 Samsara,Sr. AI Engineer,2026-08-17,Greenhouse,Pending,null,null
 Grafana Labs,Senior AI Engineer - Grafana AI/ML | USA | Remote,2026-08-17,Company careers site,Pending,null,null
 Airbnb,"Lead, Advanced Analytics, Community Support",2026-08-17,Company careers site,Pending,null,null
-DoubleVerify,Sr. Software Engineer II - Rockerbox,2026-08-16,Company careers site,Pending,null,null
+DoubleVerify,Sr. Software Engineer II - Rockerbox,2026-08-16,Company careers site,Rejected,2026-09-02,null
 Horizontal Talent,Senior AI Engineer (Job ID 75608),2026-08-16,Company careers site,Pending,null,Staffing agency
 Motion Recruitment,"Senior Analytics Engineer - Robotics Intelligence (Somerville, MA)",2026-08-16,Dice,Pending,null,Applied via Dice; staffing agency
 EnergyHub,null,2026-08-16,Greenhouse,Pending,null,Role not named in confirmation email
@@ -78,7 +85,7 @@ Nous Research,Product Analytics Engineer,2026-08-14,Direct email,Pending,null,Ap
 Shovels,Senior Data & Platform Engineer,2026-08-14,Direct email,Pending,null,Applied by emailing luka@shovels.ai
 Robert Half,Staff Data Platform Engineer,2026-08-14,Dice,Pending,null,Applied via Dice
 Humana,Lead Data Engineer - Primary Care (R-416497),2026-08-14,Workday,Rejected,2026-08-26,Also sent an application-experience survey on 08-14
-Guidehouse,Lead AI Software Engineer,2026-08-13,Workday,Pending,null,null
+Guidehouse,Lead AI Software Engineer,2026-08-13,Workday,Rejected,2026-09-02,Position was cancelled by the employer
 SentinelOne,"Senior Staff Software Engineer, On-prem",2026-08-13,Company careers site,Pending,null,null
 Nextdoor,null,2026-08-12,Greenhouse,Rejected,2026-08-18,Role not named in confirmation email
 Life360,"Senior Data Engineer II, AI Native",2026-08-12,Company careers site,Pending,null,null
