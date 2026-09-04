@@ -1,10 +1,15 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Next Step Systems,"Lead Software Engineer, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home",2026-09-03,Dice,Pending,null,Applied via Dice; staffing agency
+Fora Financial,null,2026-09-03,Greenhouse,Pending,null,Role not named in confirmation email
+Affirm,"Senior Software Engineer, Backend (Lake Analytics Platform)",2026-09-03,Greenhouse,Pending,null,null
+Upstart,Senior Software Engineer - Machine Learning Platform,2026-09-03,Company careers site,Pending,null,null
+Smartsheet,null,2026-09-03,Greenhouse,Pending,null,Role not named in confirmation email
 Horizon3,Senior Data Infrastructure Engineer,2026-09-02,Ashby,Pending,null,"Second Horizon3 application (also applied to Senior Software Engineer, Agentic Systems on 2026-08-27)"
 Onebrief,Staff Simulation Data Modeler,2026-09-02,Ashby,Pending,null,null
 Webflow,null,2026-09-02,Company careers site,Pending,null,Role not named in confirmation email
 Honeycomb,Senior Software Engineer II - Agentic Intelligence,2026-09-02,Company careers site,Pending,null,null
 Databricks,AI Engineer — GTM Analytics,2026-09-02,Greenhouse,Pending,null,null
-WorkHero,"Senior Software Engineer, Voice AI & Data Infrastructure",2026-09-02,Ashby,Pending,null,null
+WorkHero,"Senior Software Engineer, Voice AI & Data Infrastructure",2026-09-02,Ashby,Rejected,2026-09-03,null
 ServiceNow,Sr Staff AI Engineer - Veza,2026-09-01,SmartRecruiters,Pending,null,"Second ServiceNow application (also applied to Sr Data Analytics Mgr. Paid Media Campaigns on 2026-08-21, rejected)"
 Vannevar,Senior Software Engineer - Agents Platform,2026-09-01,Greenhouse,Pending,null,null
 OneSix,Lead Engineer,2026-09-01,Greenhouse,Rejected,2026-09-02,null
@@ -41,7 +46,7 @@ Censys,null,2026-08-26,Greenhouse,Pending,null,Role not named in confirmation em
 Drata,null,2026-08-26,Ashby,Pending,null,Role not named in confirmation email
 Waymark,Senior/Principal Data Engineer,2026-08-25,Greenhouse,Rejected,2026-09-01,null
 SimplePractice,null,2026-08-25,Greenhouse,Rejected,2026-08-27,Role not named in confirmation email
-Quanata,null,2026-08-25,Greenhouse,Pending,null,Role not named in confirmation email
+Quanata,null,2026-08-25,Greenhouse,Rejected,2026-09-03,Role not named in confirmation email
 Twilio,"Staff, Business Intelligence Engineer",2026-08-24,Company careers site,Pending,null,Applied directly via company careers site per Sander's own note (email to self); no confirmation email received yet
 Gemini,Senior Data Platform Engineer,2026-08-24,Company careers site,Pending,null,null
 Gemini,Senior Data Engineer,2026-08-24,Company careers site,Pending,null,null
@@ -67,6 +72,7 @@ CVS Health,Senior Data Engineer (R0992884),2026-08-19,Workday,Rejected,2026-08-2
 Atlassian,"Senior Data Engineer, DX",2026-08-18,iCIMS,Pending,null,null
 Agility Robotics,null,2026-08-18,Company careers site,Pending,null,Role not named in confirmation email
 Anthropic,"Staff+ Software Engineer, Data Infrastructure",2026-08-18,Greenhouse,Rejected,2026-08-20,null
+Empower,Senior Data Engineer (R.0061234),2026-08-18,Workday,Rejected,2026-09-04,Application confirmation email not previously captured; application date taken from the rejection email's business-process record
 Samsara,Sr. AI Engineer,2026-08-17,Greenhouse,Pending,null,null
 Grafana Labs,Senior AI Engineer - Grafana AI/ML | USA | Remote,2026-08-17,Company careers site,Pending,null,null
 Airbnb,"Lead, Advanced Analytics, Community Support",2026-08-17,Company careers site,Pending,null,null
@@ -124,3 +130,4 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Pending,null,null
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Pending,null,null
+Motorola Solutions,"Sr Software Engineer, AI Agent Platform (R68335)",null,Workday,Rejected,2026-09-03,No application confirmation email found; only the rejection notice was received
