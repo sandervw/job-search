@@ -1,9 +1,14 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Wikimedia Foundation,"Senior Software Engineer, Wikidata Platform",2026-09-04,Company careers site,Pending,null,null
+NPR,"Senior Software Architect, Audience Lifecycle",2026-09-04,Greenhouse,Pending,null,null
+Upstart,Senior Software Engineer - Capital Insights,2026-09-04,Company careers site,Pending,null,Second Upstart application (also applied to Senior Software Engineer - Machine Learning Platform on 2026-09-03)
+Notable,AI Platform Engineer,2026-09-04,Ashby,Pending,null,null
 Next Step Systems,"Lead Software Engineer, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home",2026-09-03,Dice,Pending,null,Applied via Dice; staffing agency
 Fora Financial,null,2026-09-03,Greenhouse,Pending,null,Role not named in confirmation email
 Affirm,"Senior Software Engineer, Backend (Lake Analytics Platform)",2026-09-03,Greenhouse,Pending,null,null
 Upstart,Senior Software Engineer - Machine Learning Platform,2026-09-03,Company careers site,Pending,null,null
 Smartsheet,null,2026-09-03,Greenhouse,Pending,null,Role not named in confirmation email
+Motorola Solutions,"Sr Software Engineer, AI Agent Platform (R68335)",2026-09-03,Workday,Rejected,2026-09-03,Confirmation email found in this run (dated 2026-09-03); response was received same day
 Horizon3,Senior Data Infrastructure Engineer,2026-09-02,Ashby,Pending,null,"Second Horizon3 application (also applied to Senior Software Engineer, Agentic Systems on 2026-08-27)"
 Onebrief,Staff Simulation Data Modeler,2026-09-02,Ashby,Pending,null,null
 Webflow,null,2026-09-02,Company careers site,Pending,null,Role not named in confirmation email
@@ -60,7 +65,7 @@ Poolside,null,2026-08-22,Ashby,Pending,null,Role not named in confirmation email
 Kin Insurance,Staff Analytics Engineer,2026-08-22,Ashby,Rejected,2026-08-25,null
 Arcadia,Lead Analytics Engineer - Data Modeling & Quality,2026-08-22,Lever,Pending,null,null
 IMO Health,null,2026-08-22,Lever,Pending,null,Role not named in confirmation email
-OpenRouter,Applied AI Engineer,2026-08-22,Ashby,Pending,null,"Second OpenRouter application (also applied to Software Engineer, Platform on 2026-08-03)"
+OpenRouter,Applied AI Engineer,2026-08-22,Ashby,Rejected,2026-09-04,"Second OpenRouter application (also applied to Software Engineer, Platform on 2026-08-03)"
 ServiceNow,Sr Data Analytics Mgr. Paid Media Campaigns,2026-08-21,SmartRecruiters,Rejected,2026-08-21,null
 Nextdoor,Senior Analytics Engineering Manager,2026-08-21,Greenhouse,Rejected,2026-08-31,"Role name from rejection email (confirmation email did not name it); second application to Nextdoor (first, from 2026-08-12, was rejected 2026-08-18)"
 ClickHouse,AI Operations Engineer,2026-08-21,Greenhouse,Rejected,2026-08-31,Role name from rejection email (confirmation email did not name it)
@@ -130,4 +135,3 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Pending,null,null
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Pending,null,null
-Motorola Solutions,"Sr Software Engineer, AI Agent Platform (R68335)",null,Workday,Rejected,2026-09-03,No application confirmation email found; only the rejection notice was received
