@@ -1,5 +1,9 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
 Oscilar,Analytics Engineer,2026-09-07,Ashby,Rejected,2026-09-07,Confirmation email not captured (not found in this search window); application_date is an estimate based on the rejection email's date
+Whatnot,"Staff Data Engineer, Analytics",2026-09-07,Ashby,Pending,null,null
+Incident IQ,Senior Data Engineer,2026-09-07,Company careers site,Pending,null,null
+brightwheel,"Principal AI Software Engineer, Product",2026-09-07,Ashby,Pending,null,null
+GDIT,Analytics Engineer (RQ225988),2026-09-07,Workday,Pending,null,Second GDIT application (also applied to Lead Data Engineer (RQ226016) on 2026-08-12)
 Torc Robotics,Senior Analytics Engineer - Business Intelligence,2026-09-06,Company careers site,Pending,null,null
 Innovaccer Analytics,Principal Software Engineer - Data Platform (Iceberg/Trino),2026-09-06,Workable,Pending,null,null
 Renew Home,"Staff Engineer, AI Developer Experience (Remote, US)",2026-09-06,Workable,Pending,null,null
@@ -15,7 +19,7 @@ Cohere Health,"Sr. Software Engineer, Data Platform",2026-09-05,Company careers 
 Wikimedia Foundation,"Senior Software Engineer, Wikidata Platform",2026-09-04,Company careers site,Pending,null,null
 NPR,"Senior Software Architect, Audience Lifecycle",2026-09-04,Greenhouse,Pending,null,null
 Upstart,Senior Software Engineer - Capital Insights,2026-09-04,Company careers site,Pending,null,Second Upstart application (also applied to Senior Software Engineer - Machine Learning Platform on 2026-09-03)
-Notable,AI Platform Engineer,2026-09-04,Ashby,Pending,null,null
+Notable,AI Platform Engineer,2026-09-04,Ashby,Rejected,2026-09-07,null
 Next Step Systems,"Lead Software Engineer, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home",2026-09-03,Dice,Pending,null,Applied via Dice; staffing agency
 Fora Financial,null,2026-09-03,Greenhouse,Pending,null,Role not named in confirmation email
 Affirm,"Senior Software Engineer, Backend (Lake Analytics Platform)",2026-09-03,Greenhouse,Pending,null,null
