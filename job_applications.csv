@@ -1,4 +1,6 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Curri,Senior Software Engineer,2026-09-09,Ashby,Pending,null,null
+Vantor,"Principal, AI Strategy & Engineering Transformation (R24444)",2026-09-08,Workday,Pending,null,Maxar/Vantor Workday tenant (sender maxar@myworkday.com); branded Vantor Talent Acquisition Team
 Oscilar,Analytics Engineer,2026-09-07,Ashby,Rejected,2026-09-07,Confirmation email not captured (not found in this search window); application_date is an estimate based on the rejection email's date
 Whatnot,"Staff Data Engineer, Analytics",2026-09-07,Ashby,Pending,null,null
 Incident IQ,Senior Data Engineer,2026-09-07,Company careers site,Pending,null,null
