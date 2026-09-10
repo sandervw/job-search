@@ -1,11 +1,20 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
 Curri,Senior Software Engineer,2026-09-09,Ashby,Pending,null,null
+Substack,null,2026-09-09,Ashby,Pending,null,Role not named in confirmation email
+Posit,null,2026-09-09,Greenhouse,Pending,null,Role not named in confirmation email
+Helm.ai,null,2026-09-09,Ashby,Pending,null,Role not named in confirmation email
+Omni,Product Engineer,2026-09-09,Ashby,Pending,null,null
+E Source,null,2026-09-09,Ashby,Pending,null,Role not named in confirmation email
+Doximity,null,2026-09-09,Company careers site,Pending,null,Role not named in confirmation email
+Super.com,Senior Analytics Engineer,2026-09-09,Ashby,Pending,null,Second Super.com application (also applied to Senior Data Engineer on 2026-09-08)
 Vantor,"Principal, AI Strategy & Engineering Transformation (R24444)",2026-09-08,Workday,Pending,null,Maxar/Vantor Workday tenant (sender maxar@myworkday.com); branded Vantor Talent Acquisition Team
+Super.com,Senior Data Engineer,2026-09-08,Ashby,Pending,null,Second Super.com application (also applied to Senior Analytics Engineer on 2026-09-09)
 Oscilar,Analytics Engineer,2026-09-07,Ashby,Rejected,2026-09-07,Confirmation email not captured (not found in this search window); application_date is an estimate based on the rejection email's date
 Whatnot,"Staff Data Engineer, Analytics",2026-09-07,Ashby,Pending,null,null
 Incident IQ,Senior Data Engineer,2026-09-07,Company careers site,Pending,null,null
 brightwheel,"Principal AI Software Engineer, Product",2026-09-07,Ashby,Pending,null,null
 GDIT,Analytics Engineer (RQ225988),2026-09-07,Workday,Pending,null,Second GDIT application (also applied to Lead Data Engineer (RQ226016) on 2026-08-12)
+SAIC,Data Architect Lead - 2616281,2026-09-07,Company careers site,Pending,null,null
 Torc Robotics,Senior Analytics Engineer - Business Intelligence,2026-09-06,Company careers site,Pending,null,null
 Innovaccer Analytics,Principal Software Engineer - Data Platform (Iceberg/Trino),2026-09-06,Workable,Pending,null,null
 Renew Home,"Staff Engineer, AI Developer Experience (Remote, US)",2026-09-06,Workable,Pending,null,null
@@ -126,7 +135,7 @@ HubSpot,Staff Analytics Engineer,2026-08-12,Company careers site,Rejected,2026-0
 Recorded Future,Principal Software Engineer,2026-08-12,Greenhouse,Pending,null,null
 Palo Alto Networks,Principal IT Data Engineer - Finance,2026-08-12,Workday,Pending,null,null
 CrowdStrike,"Sr. Software Engineer, Cloud - Analytics Platform",2026-08-12,Workday,Rejected,2026-08-27,null
-Rula,Sr. Analytics Engineer (Remote),2026-08-11,Ashby,Pending,null,null
+Rula,Sr. Analytics Engineer (Remote),2026-08-11,Ashby,Rejected,2026-09-08,null
 Coinbase,"Senior Staff Software Engineer, Data Platform",2026-08-11,Company careers site,Rejected,2026-08-12,null
 Circle,null,2026-08-11,Company careers site,Pending,null,Role not named in confirmation email
 SentinelOne,Staff AI Platform Engineer,2026-08-10,Company careers site,Pending,null,null
@@ -150,7 +159,7 @@ EvolutionIQ,Senior Software Engineer (AI Data Engineering),2026-08-04,Greenhouse
 AlphaSense,Staff Software Engineer,2026-08-04,Greenhouse,Pending,null,null
 Jellyfish,Staff Data Engineer,2026-08-04,Ashby,Rejected,2026-08-07,null
 Workiva,Staff Data Engineer,2026-08-03,Workday,Pending,null,Second Workiva role (also applied to Staff Data and AI Platform Engineer on 08-15)
-OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Pending,null,null
+OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,null
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Pending,null,null
