@@ -1,4 +1,8 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Ashby,Senior Product Engineer - Americas,2026-09-14,Ashby,Pending,null,null
+Stability AI,null,2026-09-14,Greenhouse,Pending,null,Role not named in confirmation email
+Twilio,"Staff, Analytics Engineer, GTM Data Science & Analytics",2026-09-14,Company careers site,Rejected,2026-09-14,"Second Twilio application (also applied to Staff, Business Intelligence Engineer on 2026-08-24, rejected 2026-09-10); confirmation email not captured, application_date is an estimate based on the rejection email's date"
+Empower,Lead Data Engineer,2026-09-14,Workday,Rejected,2026-09-14,"Second Empower application (also applied to Senior Data Engineer (R.0061234) on 2026-08-18, rejected 2026-09-04); confirmation email not captured, application_date is an estimate based on the rejection email's date"
 SmarterDx,null,2026-09-13,Greenhouse,Pending,null,Role not named in confirmation email
 Spark Advisors,Senior Software Engineer,2026-09-13,Greenhouse,Pending,null,Insurance-adjacent (Medicare insurance brokerage software for independent agents) - flagging given no-insurance policy; application already submitted before this run
 Osmind,"Senior Software Engineer, US",2026-09-13,Lever,Pending,null,null
@@ -13,7 +17,7 @@ Outschool,Staff Software Engineer,2026-09-11,Greenhouse,Pending,null,null
 Cleerly,null,2026-09-11,Greenhouse,Pending,null,Role not named in confirmation email
 Arcadia,Staff Software Engineer Energy Analytics,2026-09-11,Rippling,Pending,null,Second Arcadia application (also applied to Lead Analytics Engineer - Data Modeling & Quality on 2026-08-22)
 Astra,Senior Fullstack Engineer,2026-09-11,Ashby,Pending,null,null
-RevenueCat,null,2026-09-11,Ashby,Pending,null,Role not named in confirmation email
+RevenueCat,null,2026-09-11,Ashby,Rejected,2026-09-15,Role not named in confirmation email
 Cordial,Senior Software Engineer,2026-09-10,Greenhouse,Pending,null,null
 Garner Health,null,2026-09-10,Company careers site,Pending,null,Role not named in confirmation email
 Epic Games,Senior Full Stack Engineer,2026-09-10,Company careers site,Pending,null,null
@@ -28,7 +32,7 @@ Vannevar,"Senior Software Engineer, Full-Stack - Security Platform",2026-09-10,G
 Descript,null,2026-09-10,Company careers site,Pending,null,Role not named in confirmation email
 Oscilar,Staff Software Engineer - Analytics & Data Architecture,2026-09-10,Ashby,Rejected,2026-09-10,"Confirmation email not captured; application_date is an estimate based on the rejection email's date; second Oscilar application (also applied to Analytics Engineer, rejected 2026-09-07)"
 Wrapbook,"Senior Software Engineer II, Business Systems",2026-09-10,Ashby,Pending,null,Second Wrapbook application (also applied to Senior Analytics Engineer II on 2026-08-20)
-Curri,Senior Software Engineer,2026-09-09,Ashby,Pending,null,null
+Curri,Senior Software Engineer,2026-09-09,Ashby,Rejected,2026-09-14,null
 Substack,null,2026-09-09,Ashby,Pending,null,Role not named in confirmation email
 Posit,null,2026-09-09,Greenhouse,Pending,null,Role not named in confirmation email
 Helm.ai,null,2026-09-09,Ashby,Pending,null,Role not named in confirmation email
@@ -43,7 +47,7 @@ Oscilar,Analytics Engineer,2026-09-07,Ashby,Rejected,2026-09-07,Confirmation ema
 Whatnot,"Staff Data Engineer, Analytics",2026-09-07,Ashby,Rejected,2026-09-10,null
 Incident IQ,Senior Data Engineer,2026-09-07,Company careers site,Rejected,2026-09-08,null
 brightwheel,"Principal AI Software Engineer, Product",2026-09-07,Ashby,Pending,null,null
-GDIT,Analytics Engineer (RQ225988),2026-09-07,Workday,Pending,null,Second GDIT application (also applied to Lead Data Engineer (RQ226016) on 2026-08-12)
+GDIT,Analytics Engineer (RQ225988),2026-09-07,Workday,Rejected,2026-09-14,Second GDIT application (also applied to Lead Data Engineer (RQ226016) on 2026-08-12)
 SAIC,Data Architect Lead - 2616281,2026-09-07,Company careers site,Pending,null,null
 Torc Robotics,Senior Analytics Engineer - Business Intelligence,2026-09-06,Company careers site,Pending,null,null
 Innovaccer Analytics,Principal Software Engineer - Data Platform (Iceberg/Trino),2026-09-06,Workable,Pending,null,null
