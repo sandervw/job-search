@@ -1,4 +1,13 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Jitx Inc.,Principal Full Stack Software Engineer,2026-09-15,Lever,Pending,null,null
+Enverus,Principal Software Engineer - 26207,2026-09-15,Jobvite,Pending,null,null
+Upstart,"Principal Software Engineer, Capital Marketplace",2026-09-15,Company careers site,Pending,null,Third Upstart application (also applied to Senior Software Engineer - Capital Insights on 2026-09-04 and Senior Software Engineer - Machine Learning Platform on 2026-09-03)
+BeyondTrust,null,2026-09-15,Greenhouse,Pending,null,Role not named in confirmation email
+Foodsmart,Staff AI Engineer,2026-09-15,Lever,Pending,null,null
+AlphaSense,"Principal Software Engineer, Financial Data Platform & GenSearch Agent",2026-09-15,Greenhouse,Pending,null,Second AlphaSense application (also applied to Staff Software Engineer on 2026-08-04)
+Hummingbird,null,2026-09-15,Greenhouse,Pending,null,Role not named in confirmation email
+Reddit,"Senior Software Engineer, Media Creation",2026-09-15,Greenhouse,Pending,null,null
+Finite State,null,2026-09-15,Greenhouse,Pending,null,Role not named in confirmation email
 Ashby,Senior Product Engineer - Americas,2026-09-14,Ashby,Pending,null,null
 Stability AI,null,2026-09-14,Greenhouse,Pending,null,Role not named in confirmation email
 Twilio,"Staff, Analytics Engineer, GTM Data Science & Analytics",2026-09-14,Company careers site,Rejected,2026-09-14,"Second Twilio application (also applied to Staff, Business Intelligence Engineer on 2026-08-24, rejected 2026-09-10); confirmation email not captured, application_date is an estimate based on the rejection email's date"
@@ -6,7 +15,7 @@ Empower,Lead Data Engineer,2026-09-14,Workday,Rejected,2026-09-14,"Second Empowe
 SmarterDx,null,2026-09-13,Greenhouse,Pending,null,Role not named in confirmation email
 Spark Advisors,Senior Software Engineer,2026-09-13,Greenhouse,Pending,null,Insurance-adjacent (Medicare insurance brokerage software for independent agents) - flagging given no-insurance policy; application already submitted before this run
 Osmind,"Senior Software Engineer, US",2026-09-13,Lever,Pending,null,null
-Steno,null,2026-09-13,Rippling,Pending,null,Role not named in confirmation email
+Steno,null,2026-09-13,Rippling,Rejected,2026-09-15,Role not named in confirmation email
 Age of Learning,null,2026-09-13,Greenhouse,Pending,null,Role not named in confirmation email
 Zipline,"Staff Software Engineer, Healthcare — Customer Experience",2026-09-12,Company careers site,Pending,null,null
 Greenlight Financial Technology,"Senior Software Engineer, Full-Stack (Web Core)",2026-09-12,Lever,Pending,null,null
@@ -22,7 +31,7 @@ Cordial,Senior Software Engineer,2026-09-10,Greenhouse,Pending,null,null
 Garner Health,null,2026-09-10,Company careers site,Pending,null,Role not named in confirmation email
 Epic Games,Senior Full Stack Engineer,2026-09-10,Company careers site,Pending,null,null
 BrightHire,null,2026-09-10,Greenhouse,Pending,null,Role not named in confirmation email
-Toast,null,2026-09-10,Greenhouse,Pending,null,Role not named in confirmation email
+Toast,null,2026-09-10,Greenhouse,Rejected,2026-09-15,Role not named in confirmation email
 Instacart,"Senior Software Engineer, Fulfillment",2026-09-10,Company careers site,Rejected,2026-09-11,"Second Instacart application (also applied to Senior Data Engineer II, Finance on 2026-08-24, rejected)"
 Rocket Money,null,2026-09-10,Greenhouse,Pending,null,Role not named in confirmation email
 Aura,"Software Engineer, Monetization",2026-09-10,Greenhouse,Rejected,2026-09-12,null
@@ -74,7 +83,7 @@ Motorola Solutions,"Sr Software Engineer, AI Agent Platform (R68335)",2026-09-03
 Horizon3,Senior Data Infrastructure Engineer,2026-09-02,Ashby,Pending,null,"Second Horizon3 application (also applied to Senior Software Engineer, Agentic Systems on 2026-08-27)"
 Onebrief,Staff Simulation Data Modeler,2026-09-02,Ashby,Pending,null,null
 Webflow,null,2026-09-02,Company careers site,Pending,null,Role not named in confirmation email
-Honeycomb,Senior Software Engineer II - Agentic Intelligence,2026-09-02,Company careers site,Pending,null,null
+Honeycomb,Senior Software Engineer II - Agentic Intelligence,2026-09-02,Company careers site,Rejected,2026-09-15,null
 Databricks,AI Engineer — GTM Analytics,2026-09-02,Greenhouse,Pending,null,null
 WorkHero,"Senior Software Engineer, Voice AI & Data Infrastructure",2026-09-02,Ashby,Rejected,2026-09-03,null
 ServiceNow,Sr Staff AI Engineer - Veza,2026-09-01,SmartRecruiters,Pending,null,"Second ServiceNow application (also applied to Sr Data Analytics Mgr. Paid Media Campaigns on 2026-08-21, rejected)"
@@ -104,7 +113,7 @@ Prolego,GenAI Systems Developer,2026-08-28,Ashby,Pending,null,null
 Rearc,Lead Data Engineer,2026-08-28,Ashby,Pending,null,null
 Horizon3,"Senior Software Engineer, Agentic Systems",2026-08-27,Ashby,Pending,null,null
 Synack,null,2026-08-27,Company careers site,Pending,null,Role not named in confirmation email
-Dragos,Staff AI/ML Engineer,2026-08-27,Company careers site,Pending,null,null
+Dragos,Staff AI/ML Engineer,2026-08-27,Company careers site,Rejected,2026-09-15,null
 Stitch Fix,ML Platform Engineer,2026-08-27,Company careers site,Pending,null,null
 GOAT Group,Senior Data Engineer,2026-08-27,Company careers site,Pending,null,null
 Oneleet,GTM Engineer - Data & Attribution,2026-08-26,Ashby,Pending,null,null
@@ -133,7 +142,7 @@ Nextdoor,Senior Analytics Engineering Manager,2026-08-21,Greenhouse,Rejected,202
 ClickHouse,AI Operations Engineer,2026-08-21,Greenhouse,Rejected,2026-08-31,Role name from rejection email (confirmation email did not name it)
 Prominent,Data & Analytics Manager,2026-08-21,Dice,Interview,2026-08-21,Applied via Dice; Job turned out ot be false post
 GitHub,Senior Data Scientist (2026-5719),2026-08-20,iCIMS,Pending,null,null
-Wrapbook,Senior Analytics Engineer II,2026-08-20,Ashby,Pending,null,null
+Wrapbook,Senior Analytics Engineer II,2026-08-20,Ashby,Rejected,2026-09-15,null
 First American,Full Stack Senior Software Engineer (R057952),2026-08-19,Workday,Rejected,2026-08-20,null
 CVS Health,Senior Data Engineer (R0992884),2026-08-19,Workday,Rejected,2026-08-21,null
 Atlassian,"Senior Data Engineer, DX",2026-08-18,iCIMS,Pending,null,null
