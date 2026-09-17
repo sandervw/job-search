@@ -41,6 +41,7 @@ Cloud & infrastructure providers,Remote,Databricks,AI Engineer - FDE (Forward De
 Cloud & infrastructure providers,Remote,Temporal Technologies,"Senior Software Engineer, Cloud Data Storage - https://jobs.ashbyhq.com/temporal/2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3/application",2026-09-14,N
 Cloud & infrastructure providers,Remote,PostHog,ClickHouse Operations Engineer - https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14,2026-09-14,N
 Retail (brick-and-mortar),Remote,Ulta Beauty,Sr Data Engineer (Remote) - https://careers.ulta.com/careers/jobs/490486,2026-08-28,Y
+Retail (brick-and-mortar),Remote,The Home Depot,Staff Software Engineer - Enterprise Data Warehouse (Remote) - https://careers.homedepot.com/job/23325487/staff-software-engineer-enterprise-data-warehouse-remote-remote/,2026-09-17,N
 Weather & climate forecasting,Remote,Brightband,Software Engineer - https://www.brightband.com/company/careers/software-engineer/,2026-08-29,N
 Weather & climate forecasting,Remote,AccuWeather,Data Architect I - https://job-boards.greenhouse.io/accuweather/jobs/8153759,2026-08-30,N
 Weather & climate forecasting,Remote,DTN,Sr. Data Engineer - https://dtn.wd1.myworkdayjobs.com/en-US/DTN_Careers/job/Remote-TX/Data-Engineer_R-003108,2026-08-30,N
@@ -48,7 +49,9 @@ Weather & climate forecasting,Remote,WindBorne Systems,Lead Software Engineer - 
 Travel & tourism,Remote,Marriott,"Data Engineer/Senior Software Engineer – Data, Analytics and AI - https://careers.marriott.com/data-engineer-senior-software-engineer-data-analytics-and-ai/job/F7049865A646010ACAE14E873DF4B9BD",2026-08-30,N
 Mining & metals,Remote,KoBold Metals,"Senior Software Engineer, Decision Science - https://job-boards.greenhouse.io/koboldmetals/jobs/4624637005",2026-08-30,Y
 Climate & sustainability,Remote,Aurora Solar,Staff Analytics Engineer - https://jobs.ashbyhq.com/aurorasolar/cb19a432-dd91-46cb-8fc7-5ac367f423a0,2026-08-30,Y
+Climate & sustainability,Remote,Renew Home,"Staff Engineer, AI Developer Experience - https://apply.workable.com/renewhome/j/8CDFF59A64/apply/",2026-09-06,Y
 Construction,Remote,Fieldwire,AI/ML Engineer - https://www.fieldwire.com/job/8746698002?gh_jid=8746698002,2026-08-31,Y
+Construction,Remote,EquipmentShare,Analytics Engineer - https://www.equipmentshare.com/careers/openings/?gh_jid=8024018,2026-09-17,N
 Consumer packaged goods (CPG),Remote,General Mills,Lead Machine Learning Engineer - Remote Eligible - https://genmills.wd1.myworkdayjobs.com/en-US/GMI_External_Careers/job/Minneapolis-MN/Lead-Machine-Learning-Engineer---Remote-Eligible_10128915,2026-08-31,Y
 Consumer packaged goods (CPG),Remote,Campbell's,Data Solutions Architect - https://campbellsoup.wd5.myworkdayjobs.com/en-US/ExternalCareers_GlobalSite/job/USA---Remote/Data-Solutions-Architect_Req-67261-1,2026-08-31,N
 Marketing & advertising agencies,Remote,Bounteous,Principal Databricks Architect - https://jobs.lever.co/bounteous/8984d596-d176-4268-b0b6-8334812ff41e,2026-09-01,N
@@ -56,10 +59,13 @@ Manufacturing,Remote,Re:Build Manufacturing,Senior AI Engineer - https://job-boa
 Manufacturing,Remote,Ohr,Data Engineer - https://jobs.ashbyhq.com/ohr/5f2b1267-f692-4be6-b796-bd7e8cf53ee3,2026-09-01,Y
 Military / intelligence,Remote,Vannevar Labs,Senior Software Engineer - Agents Platform - https://job-boards.greenhouse.io/vannevarlabs/jobs/5100492007,2026-09-01,Y
 Military / intelligence,Remote,Peraton,"Senior Data Engineer – Databricks, Security & Governance - https://www.careers.peraton.com/jobs/senior-data-engineer-databricks-security-governance-undefined-undefined-170233-jobs--information-technology--",2026-09-05,N
+Military / intelligence,Remote,Vantor,"Principal, AI Strategy & Engineering Transformation - https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444",2026-09-08,Y
+Military / intelligence,Remote,Ursa Space Systems,Sr. Data Engineer - https://ursaspacesystems.applytojob.com/apply/B0Ukf1uEGD/Sr-Data-Engineer,2026-09-08,N
 Medical devices,Remote,Natera,Forward Deployed AI Solutions Engineer - https://job-boards.greenhouse.io/natera/jobs/6115022004,2026-09-03,N
 Banking & lending,Remote,Upstart,Senior Software Engineer - Machine Learning Platform - https://careers.upstart.com/jobs?gh_jid=8161883,2026-09-03,Y
 Banking & lending,Remote,Affirm,"Senior Software Engineer, Backend (Lake Analytics Platform) - https://job-boards.greenhouse.io/affirm/jobs/7799631003",2026-09-03,Y
 Banking & lending,Remote,Fora Financial,Staff Data Engineer - https://job-boards.greenhouse.io/forafinancial/jobs/4302249009,2026-09-03,Y
+Banking & lending,Remote,Chime,"Software Engineer, AI Enablement - https://job-boards.greenhouse.io/chime/jobs/8578967002",2026-09-06,Y
 Museums & cultural institutions,Remote,Wikimedia Foundation,"Senior Software Engineer, Wikidata Platform - https://job-boards.greenhouse.io/wikimedia/jobs/8060307",2026-09-04,Y
 Museums & cultural institutions,Remote,NPR,"Senior Software Architect, Audience Lifecycle - https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4717758005",2026-09-04,Y
 Hospitals & health systems,Remote,Qualified Health,Forward Deployed Engineer - https://jobs.ashbyhq.com/qualified-health-pbc/376e24b1-764f-4a71-8bf9-a94356ec4ded,2026-09-04,N
@@ -67,19 +73,16 @@ Hospitals & health systems,Remote,Notable Health,Senior AI Platform Engineer - h
 Hospitals & health systems,Remote,Healthie,Senior Data Engineer - https://careers.kula.ai/gethealthie/53547/,2026-09-04,N
 Hospitals & health systems,Remote,Rad AI,"Staff Software Engineer, Infrastructure - https://jobs.ashbyhq.com/radai/2697a7e4-b706-4f91-884d-2f2d87b7009a",2026-09-05,N
 Hospitals & health systems,Remote,Rad AI,Data Engineer - https://jobs.ashbyhq.com/radai/0372a459-16e6-4ccb-8df5-da97b728938a,2026-09-05,N
-"Legal (eDiscovery, legal analytics)",Remote,DISCO,Enterprise AI Platform Engineer - https://www.csdisco.com/careers-listing?gh_jid=8656281002,2026-09-05,Y
-"Legal (eDiscovery, legal analytics)",Remote,Thomson Reuters,"Staff Software Engineer / Architect - AI, CoCounsel FDE - https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Staff-Software-Engineer---Architect---AI--CoCounsel-FDE_JREQ200171",2026-09-05,Y
 Hospitals & health systems,Remote,Komodo Health,Staff Data Engineer - https://job-boards.greenhouse.io/komodohealth/jobs/8508919002,2026-09-06,N
 Hospitals & health systems,Remote,Komodo Health,Senior Data Platform Engineer - https://job-boards.greenhouse.io/komodohealth/jobs/8687460002,2026-09-06,N
-Banking & lending,Remote,Chime,"Software Engineer, AI Enablement - https://job-boards.greenhouse.io/chime/jobs/8578967002",2026-09-06,Y
-Climate & sustainability,Remote,Renew Home,"Staff Engineer, AI Developer Experience - https://apply.workable.com/renewhome/j/8CDFF59A64/apply/",2026-09-06,Y
+"Legal (eDiscovery, legal analytics)",Remote,DISCO,Enterprise AI Platform Engineer - https://www.csdisco.com/careers-listing?gh_jid=8656281002,2026-09-05,Y
+"Legal (eDiscovery, legal analytics)",Remote,Thomson Reuters,"Staff Software Engineer / Architect - AI, CoCounsel FDE - https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Staff-Software-Engineer---Architect---AI--CoCounsel-FDE_JREQ200171",2026-09-05,Y
 "Education (K-12, higher ed, EdTech)",Remote,Brightwheel,"Principal AI Software Engineer, Product - https://jobs.ashbyhq.com/brightwheel/918b98e2-bf78-4cab-be21-8ca7d37fc6e3",2026-09-07,Y
 "Education (K-12, higher ed, EdTech)",Remote,Incident IQ,Senior Data Engineer - https://job-boards.greenhouse.io/incidentiq/jobs/7741633003,2026-09-07,Y
+"Education (K-12, higher ed, EdTech)",Remote,Age of Learning,Senior Data Engineer - https://job-boards.greenhouse.io/ageoflearninginc/jobs/4302554009,2026-09-13,Y
 "Government (federal, state, local)",Remote,GDIT,AI Engineer - GDIT AI COE - https://gdit.wd5.myworkdayjobs.com/external_career_site/job/any-location--remote/ai-engineer---gdit-ai-coe_rq216709-1,2026-09-07,N
 "Government (federal, state, local)",Remote,Leidos,Senior Agentic AI Engineer - https://careers.leidos.com/jobs/16559653-senior-agentic-ai-engineer,2026-09-07,N
 "Government (federal, state, local)",Remote,Leidos,Data Automation Engineer - https://careers.leidos.com/jobs/16507135-data-automation-engineer,2026-09-07,N
-Military / intelligence,Remote,Vantor,"Principal, AI Strategy & Engineering Transformation - https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444",2026-09-08,Y
-Military / intelligence,Remote,Ursa Space Systems,Sr. Data Engineer - https://ursaspacesystems.applytojob.com/apply/B0Ukf1uEGD/Sr-Data-Engineer,2026-09-08,N
 Fashion / apparel,Remote,Under Armour,Sr. Data Analytics Engineer - https://careers.underarmour.com/job/Remote-Sr_-Data-Analytics-Engineer/1400794200/,2026-09-08,N
 Logistics & freight,Remote,Loadsmart,Forward Deployed Engineer - https://jobs.lever.co/loadsmart/152abf3a-d8b3-4289-b746-3c16dbabc703,2026-09-08,N
 Hospitality & hotels,Remote,Evolve,Senior Data Engineer - https://job-boards.greenhouse.io/evolvevacationrental/jobs/7977457003,2026-09-09,N
@@ -96,12 +99,11 @@ Automotive,Remote,May Mobility,Machine Learning Engineer II - Autonomous Driving
 Gaming,Remote,Netflix (Netflix Games),Analytics Engineer 5 - Cloud Games Infrastructure Data Products - https://explore.jobs.netflix.net/careers/job/790318333462-analytics-engineer-5-cloud-games-infrastructure-data-products-usa-remote?domain=netflix.com,2026-09-12,Y
 Academic & scientific research,Remote,Elicit,AI Engineer - https://jobs.ashbyhq.com/elicit/d27d51d7-b318-4cb0-9b88-c37de18905f3,2026-09-12,N
 Academic & scientific research,Remote,Elicit,Infrastructure Engineer - https://jobs.ashbyhq.com/elicit/152b8541-c6d9-4b2f-a4f2-f906b82ec2ed,2026-09-12,N
-"Education (K-12, higher ed, EdTech)",Remote,Age of Learning,Senior Data Engineer - https://job-boards.greenhouse.io/ageoflearninginc/jobs/4302554009,2026-09-13,Y
 Gambling / sportsbooks,Remote,PrizePicks,Staff Machine Learning Engineer - http://prizepicks.com/position?gh_jid=7618741003,2026-09-13,N
 Gambling / sportsbooks,Remote,PrizePicks,"Senior Software Engineer, Applied AI (IC) - http://prizepicks.com/position?gh_jid=7855741003",2026-09-13,N
 Gambling / sportsbooks,Remote,Underdog,Senior Analytics Engineer - Regulatory Reporting - https://job-boards.greenhouse.io/underdog/jobs/4727925005,2026-09-13,N
 Gambling / sportsbooks,Remote,PENN Entertainment (Penn Interactive),Staff Data Engineer - https://job-boards.greenhouse.io/penninteractive/jobs/6179102004,2026-09-13,N
 Grocery & food service,Remote,Fetch,"Senior Machine Learning Engineer I (Scan, Match & Catalog) - https://jobs.gem.com/fetch/am9icG9zdDqxF7E_C_y_LnYjbK6cIlC0",2026-09-16,N
-Grocery & food service,Remote,Spoiler Alert,Senior Data Engineer - https://www.spoileralert.com/careers-open-positions?gh_jid=6016638004,2026-09-16,N
-Grocery & food service,Remote,PAR Technology,Sr. Data Engineer - https://jobs.ashbyhq.com/par technology/26922307-7d04-4827-bb83-9d9db0a8e4f1,2026-09-16,N
+Grocery & food service,Remote,Spoiler Alert,Senior Data Engineer - https://www.spoileralert.com/careers-open-positions?gh_jid=6016638004,2026-09-16,Y
+Grocery & food service,Remote,PAR Technology,Sr. Data Engineer - https://jobs.ashbyhq.com/par technology/26922307-7d04-4827-bb83-9d9db0a8e4f1,2026-09-16,Y
 Grocery & food service,Remote,DoorDash,Senior Security Data Engineer - https://job-boards.greenhouse.io/doordashusa/jobs/8168866,2026-09-16,N
