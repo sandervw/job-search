@@ -1,4 +1,7 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+EquipmentShare,Analytics Engineer,2026-09-18,Greenhouse,Pending,null,null
+Maze,Full Stack Engineer,2026-09-18,Ashby,Pending,null,null
+Nous Research,General Pool Engineer,2026-09-18,Direct email,Pending,null,Third Nous Research application (also applied to Product Analytics Engineer on 2026-08-14 and Software Engineer on 2026-08-23); applied by emailing recruiting@nousresearch.com
 Fleetio,null,2026-09-17,Greenhouse,Pending,null,Role not named in confirmation email
 Acorns,"Senior Full-Stack Software Engineer, Community Building",2026-09-17,Ashby,Pending,null,null
 Eve Legal,Senior Data Engineer,2026-09-16,Greenhouse,Pending,null,null
@@ -18,7 +21,7 @@ AlphaSense,"Principal Software Engineer, Financial Data Platform & GenSearch Age
 Hummingbird,null,2026-09-15,Greenhouse,Pending,null,Role not named in confirmation email
 Reddit,"Senior Software Engineer, Media Creation",2026-09-15,Greenhouse,Pending,null,null
 Finite State,null,2026-09-15,Greenhouse,Pending,null,Role not named in confirmation email
-Ashby,Senior Product Engineer - Americas,2026-09-14,Ashby,Pending,null,null
+Ashby,Senior Product Engineer - Americas,2026-09-14,Ashby,Rejected,2026-09-15,null
 Stability AI,null,2026-09-14,Greenhouse,Pending,null,Role not named in confirmation email
 Twilio,"Staff, Analytics Engineer, GTM Data Science & Analytics",2026-09-14,Company careers site,Rejected,2026-09-14,"Second Twilio application (also applied to Staff, Business Intelligence Engineer on 2026-08-24, rejected 2026-09-10); confirmation email not captured, application_date is an estimate based on the rejection email's date"
 Empower,Lead Data Engineer,2026-09-14,Workday,Rejected,2026-09-14,"Second Empower application (also applied to Senior Data Engineer (R.0061234) on 2026-08-18, rejected 2026-09-04); confirmation email not captured, application_date is an estimate based on the rejection email's date"
@@ -182,7 +185,7 @@ SentinelOne,"Senior Staff Software Engineer, On-prem",2026-08-13,Company careers
 Nextdoor,null,2026-08-12,Greenhouse,Rejected,2026-08-18,Role not named in confirmation email
 Life360,"Senior Data Engineer II, AI Native",2026-08-12,Company careers site,Pending,null,null
 Mayo Clinic,Lead Data Engineer - Enterprise Data & Analytics - Remote (387884),2026-08-12,Company careers site,Pending,null,null
-3M,Lead Data Engineer (R01163597),2026-08-12,Workday,Pending,null,null
+3M,Lead Data Engineer (R01163597),2026-08-12,Workday,Rejected,2026-09-19,null
 GDIT,Lead Data Engineer (RQ226016),2026-08-12,Workday,Rejected,2026-09-17,null
 HubSpot,Staff Analytics Engineer,2026-08-12,Company careers site,Rejected,2026-08-14,null
 Recorded Future,Principal Software Engineer,2026-08-12,Greenhouse,Pending,null,null
