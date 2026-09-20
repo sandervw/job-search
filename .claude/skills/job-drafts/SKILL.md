@@ -11,7 +11,7 @@ Draft application-question answers and/or a cover letter for a specific job post
 
 The user names the resume in their prompt. Read only that one:
 
-- Data Engineer → `resumes/SanderVanwilligen-DE.md`
+- Data Engineer → `resumes\SanderVanwilligen-DE.md`
 - Software Engineer → `resumes/SanderVanWilligen-SE.md`
 
 If they don't say, ask which before drafting.
@@ -20,7 +20,7 @@ If they don't say, ask which before drafting.
 
 1. `post-files/job-post.md` — the posting (questions live here).
 2. `post-files/personal-details.md` — background on Sander.
-3. The chosen resume (only one).
+3. The chosen resume (only one; from the *project root*).
 4. Web-search the company (a couple of `WebSearch` calls) for background: what they do, product, recent news, tech stack. Weave in only what's relevant.
 
 ## Write
