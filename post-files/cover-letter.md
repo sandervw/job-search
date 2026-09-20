@@ -1,12 +1,12 @@
-Dear Points Guy Team,
+Dear Jellyfish Hiring Team,
 
-The line in your posting that made me apply was "zero management responsibility, by design." I lead a team today, and I care a lot about the people on it, but the company I currently work for wants to move me into a 'management, hands-off' role. For me, that's torture. I love having my hands in the tech, the same way a sculptor loves having hers in clay. A role that keeps me in the code, raising the bar through pairing and the example I set, is exactly where I want to be.
+I'm applying for the Full Stack Engineer role because I already adore the AI adoption Jellyfish measures. I championed agentic code adoption across my current company, running the training for 13 other engineers in both the software and data teams, and watched Agile story delivery time drop by roughly 60%. I would rather help build the tool *showing* AI's impact than speak in anecdotes.
 
-I have spent ten years shipping production systems in TypeScript, Python, and SQL. I build full-stack: React 19, node, Canvas render loops, drag-and-drop editors, Express and FastAPI services, hand-rolled auth, session and rate-limit layers behind them, Terraform, containers, both the CI and the CD. I ship these solo and end to end.
+On the stack, I ship the whole path in TypeScript and Python. My projects run React 19 front ends, Node/Express 5 and FastAPI services, hand-rolled auth, session and rate-limit layers, Postgres and Mongo storage, Terraform, containers, GitHub Actions CI/CD - the whole darn stack. Django isn't my primary framework, but the patterns mentioned in the job post (REST contracts, ORM-backed models, fast, safe deploys to a SaaS environment) are my oeuvre. I pick up new tools quickly, not because I must (not in insurance), but because I may.
 
-Your bet on AI-native development is another piece I'm eager to work on. I championed agentic coding tools across my current org (insurance - one of the industries most-resistant to change). I ran the evaluation and authored the security framework - least-privilege logins, approval flows, a custom MCP server - that cleared Claude Code for production. Then I trained the other engineers in its use. Story delivery time dropped about 60%. I cannot remember the last day I spent where I didn't have an agent doing something - they're like water to me now, or oxygen. I know where they're useful, where they lie, and how to show other engineers the difference, so that they can get as much leverage as I do.
+That second part matters to me. To engage in a little melodrama - learning new things is, as far as I'm concerned, the whole reason for being a living Human Being. It's what separates me from a cow chewing grass. I read documentation for fun - or make AI read it and summarize. I use what I read to build side projects to try new ideas. I love exploring the line between what AI can and can't do for me. A growth-stage startup is the environment I've been trying to get into. Insurance is slow on change, and next to the rise of LLMs, it looks even slower. I'm eager for a place that moves fast and rewards curiosity.
 
-The transformation from content to products that act on a user's behalf is a hard, awesome challenge. I would love to build it with your team.
+I currently lead a small engineering team, so I know how to communicate, provide status updates, build consensus, own production support - the softer skills, sans drama. I'd bring all of that - and enthusiasm to boot - to Jellyfish's challenges. I'd love to talk.
 
 All the best,
 Sander VanWilligen
