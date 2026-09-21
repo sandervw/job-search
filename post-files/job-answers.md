@@ -1,5 +1,7 @@
-# Why OpenRouter?
+# If you had a long-running dbt model dependent on a large data source like clickstream events, what are some things you might do to speed it up?
 
-I already live in OpenRouter. Between the MCP server I built for Claude Code at my current company (which cleared it for prod), and a homelab running open-weight models like Qwen3 and Devstral, I'm constantly swapping models. OpenRouter is the tool I love, because it saves me having to swap interfaces, like the early days of Claude/OpenAI APIs. But I want to be more than a tool 'user', I want to be the one who builds the system - models treated as interchangeable parts.
+First I'd profile it to find the actual bottleneck rather than guess. The biggest lever is usually making it incremental, with a merge or insert_overwrite strategy + a lookback window. Then I'd push filtering and column pruning as far upstream as possible, pre-aggregate the clickstream to the needed grain in a staging model, and materialize heavy intermediates as tables.
 
-I want to work in AI/LLMS, and OpenRouter's React/TypeScript stack would be my favorite stack to do it in.
+# A stakeholder asks you to build a 'monthly active customers' metric, but Finance and Product each have a different definition of 'active.' How do you handle this?
+
+I'd get both definitions written down and, more importantly, ask for the purpose of each. Usually the right answer is two clearly named, separately documented metrics. I'd bring the owners together to agree on naming, grain, and source of truth, then govern each metric in the semantic layer with its logic, owner, refresh cadence, and known limitations documented.

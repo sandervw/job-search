@@ -10,3 +10,11 @@ I've attached my resume. You can reach out to me at this email, or my phone at (
 
 All the best,
 Sander VanWilligen
+
+---
+
+Concept 2: TODO
+Critical Role: https://critrole.com/
+Obsidian: https://obsidian.md/about
+Hollow-Press: https://hollow-press.net/pages/contact-hollow-press
+Wildermyth: https://www.worldwalkergames.com/
