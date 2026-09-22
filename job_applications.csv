@@ -1,14 +1,17 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Skylight,Senior Analytics Engineer (Finance & Operations),2026-09-21,Workable,Pending,null,null
+Clair,"Senior Fullstack Engineer, Core Products",2026-09-21,Ashby,Pending,null,null
+ezCater,"Senior Software Engineer, Platform Infrastructure (Remote)",2026-09-21,Greenhouse,Pending,null,null
 Anrok,null,2026-09-20,Ashby,Pending,null,Role not named in confirmation email
 Worldly,Senior Data Engineer,2026-09-20,Ashby,Pending,null,null
 SundaySky,Senior Full-Stack Engineer,2026-09-20,Comeet,Pending,null,null
 Boosted.ai,Senior Software Engineer,2026-09-20,Greenhouse,Pending,null,null
-GitHub,Senior Software Engineer (2026-5770),2026-09-20,iCIMS,Pending,null,Second GitHub application (also applied to Senior Data Scientist (2026-5719) on 2026-08-20)
+GitHub,Senior Software Engineer (2026-5770),2026-09-20,iCIMS,Rejected,2026-09-21,Second GitHub application (also applied to Senior Data Scientist (2026-5719) on 2026-08-20)
 Jellyfish,Full Stack Engineer,2026-09-19,Ashby,Pending,null,"Second Jellyfish application (also applied to Staff Data Engineer on 2026-08-04, rejected 2026-08-07)"
 OpenRouter,"Software Engineer, Product",2026-09-19,Ashby,Pending,null,"Third OpenRouter application (also applied to Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03, both rejected)"
 Red Ventures,Principal Engineer | The Points Guy,2026-09-19,Company careers site,Pending,null,null
 EquipmentShare,Analytics Engineer,2026-09-18,Greenhouse,Pending,null,null
-Maze,Full Stack Engineer,2026-09-18,Ashby,Pending,null,null
+Maze,Full Stack Engineer,2026-09-18,Ashby,Rejected,2026-09-21,Rejected due to location/timezone requirement for the role
 Nous Research,General Pool Engineer,2026-09-18,Direct email,Pending,null,Third Nous Research application (also applied to Product Analytics Engineer on 2026-08-14 and Software Engineer on 2026-08-23); applied by emailing recruiting@nousresearch.com
 b.well Connected Health,Staff Data Engineer,2026-09-18,Newton,Pending,null,null
 Fleetio,null,2026-09-17,Greenhouse,Pending,null,Role not named in confirmation email
@@ -17,7 +20,7 @@ Eve Legal,Senior Data Engineer,2026-09-16,Greenhouse,Pending,null,null
 Syllo,"Senior Software Engineer, Applied AI",2026-09-16,Greenhouse,Pending,null,null
 Leap,null,2026-09-16,Greenhouse,Pending,null,Role not named in confirmation email
 Amplitude,Full-Stack Senior Software Engineer,2026-09-16,Company careers site,Pending,null,null
-Fieldguide,"Software Engineer, Audit (Full Stack)",2026-09-16,Ashby,Pending,null,null
+Fieldguide,"Software Engineer, Audit (Full Stack)",2026-09-16,Ashby,Rejected,2026-09-21,null
 PAR,Sr. Data Engineer,2026-09-16,Ashby,Pending,null,null
 Spoiler Alert,Senior Data Engineer,2026-09-16,Company careers site,Pending,null,null
 Descript,"Software Engineer, Product",2026-09-16,Company careers site,Rejected,2026-09-16,"Second Descript application (also applied to role not named in confirmation email, rejected 2026-09-16); confirmation and rejection arrived combined in one email via Gem (appreview.gem.com) ATS"
@@ -214,7 +217,7 @@ Hightouch,null,2026-08-08,Greenhouse,Pending,null,Role not named in confirmation
 Patreon,null,2026-08-08,Ashby,Pending,null,General talent pool; role not named
 Hack The Box,Senior Data Engineer,2026-08-08,Workable,Pending,null,null
 OpenAI,IT Controls Data Engineer,2026-08-07,Ashby,Rejected,2026-08-10,Confirmation email was generic; role taken from the rejection notice
-Hims & Hers,null,2026-08-07,Company careers site,Pending,null,Role not named in confirmation email
+Hims & Hers,Staff Data Engineer,2026-08-07,Company careers site,Rejected,2026-09-21,Role name learned from rejection email; position filled (offer extended to another finalist)
 Zeta Global,Lead Data Engineer - Healthcare Data & Audience Applications,2026-08-07,Greenhouse,Pending,null,null
 Instrumentl,Senior Data Engineer,2026-08-06,Lever,Pending,null,null
 Expel,Senior AI Platform Engineer,2026-08-05,Greenhouse,Rejected,2026-09-11,null
@@ -227,4 +230,4 @@ Workiva,Staff Data Engineer,2026-08-03,Workday,Pending,null,Second Workiva role 
 OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,null
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
-Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Pending,null,null
+Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Rejected,2026-09-21,null
