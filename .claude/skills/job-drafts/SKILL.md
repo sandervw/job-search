@@ -25,7 +25,7 @@ If they don't say, ask which before drafting.
 
 ## Write
 
-- **Answers** → `post-files/job-answers.md`. Each question restated as a heading, its draft below. Under 100 words each unless the user says otherwise.
+- **Answers** → `post-files/job-answers.md`. Each question restated as a heading, its draft below. **HARD LIMIT: under 100 words each** (unless the user says otherwise). Verify with `wc -w` and trim before reporting.
 - **Cover letter** → `post-files/cover-letter.md`. 250–400 words, three or four short paragraphs.
 
 Do only what the prompt asks — answers, cover letter, or both. Overwrite the target files. After writing, tell the user word counts and note anything you were unsure about.

@@ -1,7 +1,3 @@
-# If you had a long-running dbt model dependent on a large data source like clickstream events, what are some things you might do to speed it up?
+# Tell us about an API or service you designed in front of a database that other teams built on top of. What tradeoff did you bake into the contract, and how did it hold up as those teams' needs changed?
 
-First I'd profile it to find the actual bottleneck rather than guess. The biggest lever is usually making it incremental, with a merge or insert_overwrite strategy + a lookback window. Then I'd push filtering and column pruning as far upstream as possible, pre-aggregate the clickstream to the needed grain in a staging model, and materialize heavy intermediates as tables.
-
-# A stakeholder asks you to build a 'monthly active customers' metric, but Finance and Product each have a different definition of 'active.' How do you handle this?
-
-I'd get both definitions written down and, more importantly, ask for the purpose of each. Usually the right answer is two clearly named, separately documented metrics. I'd bring the owners together to agree on naming, grain, and source of truth, then govern each metric in the semantic layer with its logic, owner, refresh cadence, and known limitations documented.
+I built the semantic layer over our analytics warehouse: a set of Tabular models and conformed dimensions that analysts and business teams query instead of touching raw tables. The tradeoff I baked in was rigidity for stability. I locked grain and naming so a "policy" or "member" meant one thing everywhere, at the cost of easy ad-hoc reshaping. It held up well. New reporting needs became extensions to the model; consumers never had to re-learn the data dictionary.

@@ -1,12 +1,12 @@
-Dear Skylight Data Team,
+Dear Akkio team,
 
-I'm applying for your Senior Analytics Engineer role because it lines up almost exactly with the work I've spent the last several years doing, just for a company I'd much rather work with.
+Your description of agentic coding as "Tuesday" is why I'm applying. I've spent the last year rebuilding my own workflow around agents and clearing them for production use inside insurance (maybe the most risk-averse industry there is), so the standard for quality/testing/reliability is one I already maintain.
 
-For the past decade at Pharmacists Mutual I've owned the finance-and-operations data layer end to end. I rebuilt our analytical reporting from scratch, replacing broken logic from a dead vendor with documented models. This rebuild cut processing time over 60% and storage 50%. Since then I've been the main point of contact on analytics for C-suite leadership. Now as the Lead Data Engineer, I own our migration to a medallion lakehouse, and on the personal side, I increasingly work in dbt, Dagster, Postgres/DuckDB, and Python.
+At Pharmacists Mutual I led agentic coding adoptions for the data and software engineering teams: running the evaluation, writing the security framework, shipping agent-assisted work into production. I built a custom SQL Server MCP so that our data team could use Claude Code to (safely) query DEV, UAT, and PRD. The result was roughly 60% faster story delivery. That combination of aggressive AI adoption and hard security controls maps directly to the on-premises, agency cloud, inherited permissions work you described in your job post.
 
-The parts of this posting I'm most interested by are metric governance and data quality. I've integrated a master data management platform into our pipeline and built the validation and reconciliation systems. I'm comfortable both giving and receiving constructive feedback on metric definitions, and comfortable working where pipelines and definitions are still forming. Your Snowflake and Omni stack is newer to me than SQL Server / Postgres, but the modeling discipline transfers. Plus I'm a quick study; I taught myself modern data stacks building a nightly stylometrics pipeline on dbt and Dagster in my spare time.
+On the personal side: my portfolio spans FastAPI and Node/Express services with hand-rolled auth/session/rate-limiting, React front ends with custom Canvas renderers, Postgres/Mongo/DuckDB schemas, OpenTofu, containers, GitHub Actions, several OVHCloud VPS servers to run it all (they're under $10/month, and more than enough for the workloads), and the final hosting on Cloudflare. I built every single one as an "agent-first" workflow, with maintained context files and agent co-authored commits - I can speak concretely about where agents fail and how I verify their output. I'd fit full stack best, with data as a second specialty.
 
-I'd welcome the chance to talk.
+I'm interested especially in your description of ownership. I've been owning data and software systems for the last 9 years, most recently as sole technical decision-maker on data, reporting to our leadership team. I'd bring that same skillset to the systems behind your agents. I'd love the chance to chat.
 
 All the best,
 Sander VanWilligen
