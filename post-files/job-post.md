@@ -1,79 +1,124 @@
-Every breach, every failed audit, every new hire stuck in onboarding purgatory traces back to the same question: _who has access to what — and should they?_
+# **Position Summary**
 
-Identity is where modern companies break. Too much access leaks data. Too little grinds the business to a halt. Lumos is the industry's first Autonomous Identity Platform — software that doesn't just surface access risk, but acts on it. We started with a self-service AppStore and grew into the critical infrastructure connecting apps, identities, and data for GitHub, MongoDB, Mars, Pinterest, Anduril, Intercom, Roku, and Netskope. At the center is Albus, our AI agent for identity — mining roles, approving access, and catching the drift humans miss.
+We’re looking for a Senior Software Engineer (Full Stack) to join our growing Engineering team. This role will report directly to Engineering leadership and collaborate cross-functionally with stakeholders across Product, Design and Engineering.  
 
-You'll ship work that thousands of IT and security teams touch every day. You'll own problems without playbooks, because the category is being redefined in real time — by us.
+You'll help us build, scale, and maintain the web applications that power the Virtuous platform — keeping them fast, reliable, and observable as our traffic and data grow, while also shipping the net-new features that win deals and deepen the value customers get from the product. You should feel comfortable across the full stack, from crafting intuitive UIs to designing robust backend services, but gravitate toward the harder questions: How does this behave under load? Where does it fall over, and how do we know before our customers do? How do we ship quickly without sacrificing reliability?  
 
-**Why Lumos?**
+It's essential that you already know and actively use modern AI development tools and that you're curious about how to make them work harder for you. We treat AI agents as a core part of how strong engineers work today: a force multiplier across the entire stack. But we never trade speed for quality. You stay firmly in the driver's seat, owning the correctness, design, and long-term health of everything you ship, and bringing the judgment to know when to lean on a tool, when to question it, and when a hard problem still demands your own thinking.  
 
-- 🚀 **Jump on a rocketship.** Since launching out of stealth in April 2022, we've grown from 20 to ~130 Alchemists and raised over $65M from a16z, Scale, Neo, Greg Brockman (President at OpenAI), and Phil Venables (CISO at Google).
-    
-- ⭐ **Customers love us — and so does the industry.** Named a Strong Performer in the 2026 Gartner Voice of the Customer for IGA — 4.7/5, with 96% of reviewers saying they'd recommend us. Our customers cut time-to-access by 98%, slash IT tickets by 72%, and eliminate excess privilege at scale.
-    
-- 🏆 **A culture worth joining.** Three years running on Forbes' Top 100 Best Startup Employers in America (2024, 2025, 2026) — measured on culture, retention, growth, and job creation. That's our Alchemists, not our marketing. See what we live by [here](https://blog.lumos.com/p/the-anatomy-of-an-alchemist).
-    
+Our current tech stack is Python/Django on the backend, with PostgreSQL as our primary datastore. On the frontend, we're actively migrating from React/GraphQL toward a leaner, server-side architecture built on HTMX. We're continually evaluating tools and frameworks to support a growing platform, and a willingness to explore new technologies and offer thoughtful input into technical and infrastructure decisions is important to us.
 
-## 🔦 Overall description
+# **Responsibilities**
 
-Lumos is making it a joy for companies to manage their apps and identities ✨. By integrating usage, spend, compliance, and access data, we provide a level of clarity and insight previously unimaginable. At the heart of our products is our identity data platform, the systems that ingest identity data from hundreds of third-party integrations and turn it into the trusted, insight-rich primitives that power every Lumos product.
+You'll own meaningful, high-impact areas of the platform end to end — not just contribute to them. Specifically, you can expect to:
 
-As a Software Engineer on our Data Engineering team, you will design and ship the shared primitives product teams build identity features on. You'll lead projects like defining and shipping an integration-agnostic API for reading access-graph data. Today Identity Intelligence consumes EntraID's access graph through a direct integration call, capping insights to a single integration, and your work will let Identity Intelligence and future products generate insights across every access-graph-enabled integration as it comes online.
-
-We're a startup that values ownership, curiosity, and trust, and we're looking for engineers who love building platform infrastructure that enables teams to move faster while improving resilience and visibility.
-
-## ✨ Your Responsibilities
-
-- Design and implement core components of our identity data platform, including APIs, service layers, and interfaces that abstract raw identity data into shared primitives other products build on.
+- Own the performance and scalability of our data layer as we onboard larger and more complex organizations — indexing, query optimization, read replicas, partitioning, and connection pooling — so onboarding and day-to-day usage stay fast and reliable even at enterprise scale
     
-- Build and extend our data interface framework, enabling reusable patterns for contract design, versioning, and observability across producer and consumer teams.
+- Own our asynchronous and background-processing infrastructure (e.g., Celery), keeping it healthy, observable, and able to keep pace with growing data volume
     
-- Work across teams to migrate product surfaces off direct integration or database reads and onto well-defined, product-grade APIs.
+- Design, build, and ship net-new, revenue-driving features across the full stack — from messaging and bulk-sending capabilities to richer reporting, analytics, and email experiences
     
-- Contribute to a world-class data infrastructure by building the product-facing APIs and shared primitives that let engineering, product, and AI teams access high-quality identity data seamlessly.
+- Help reinforce and extend our move to a server-side, HTMX-based frontend, improving both developer velocity and front-end reliability
     
-- Drive key technical decisions and lead by example, through architecture reviews, mentoring, and pairing with other engineers on complex data-interface problems.
+- Design, build, and maintain scalable web applications used by nonprofit organizations around the world
     
-- Champion resilience, observability, and scalability in every layer of the identity data platform.
+- Collaborate closely with cross-functional teams to understand user needs and translate them into technical solutions
     
-
-## 🙌 What We Value
-
-While specific qualifications are less important than your drive and potential, the following experiences will set you up for success in this role:
-
-- Strong experience as a backend or platform engineer, building service layers in front of a transactional database (MySQL/Postgres) that abstract storage from internal consumers, or comparable ingestion/sync pipeline experience with Dagster, Airflow, or similar.
+- Write clean, testable, and efficient code across the frontend and backend
     
-- Proficiency in one or more modern backend languages (Python, Go, or TypeScript), with a focus on clean API design, testability, and observability.
+- Contribute to architectural discussions and help drive technical decision-making across the platform
     
-- Experience designing service or API interfaces over a transactional datastore, defining contracts that let producers and consumers evolve independently, gRPC or comparable is a plus.
+- Participate in code reviews, and help foster a culture of learning and improvement
     
-- A strong instinct for data correctness, observability, and SLOs in systems where downstream products take action on the output.
+- Own the reliability, performance, and observability of the systems you work on — instrument them well, set meaningful alerts, and treat production health as a first-class part of the work
     
-- Familiarity with identity and access governance (IGA) data (identities, accounts, entitlements, group memberships, non-human identities) and how its correctness, freshness, and traceability shape downstream governance outcomes at scale.
+- Provide thoughtful feedback on technology choices as we evaluate changes across our stack
+    
+- Support a culture of experimentation, iteration, and continuous delivery
     
 
-## 💰 Pay Range
+# **You Must Have**
 
-- $174,615 - $227,000 _**plus equity & benefits.** Note that this range is a good faith estimate of likely pay for this role; upon hire, the pay may differ due to skill and/or level of experience._
+- 6+ years building modern web applications, including meaningful time spent running and scaling them in production
+    
+- Proficiency in Python and frameworks like Django (or similar)
+    
+- Hands-on experience with AI coding agents (Claude Code, Cursor, Copilot, etc.) as part of your regular development workflow
+    
+- Experience operating cloud infrastructure (AWS, GCP, or Azure) and infrastructure-as-code tooling (e.g., Terraform)
+    
+- Experience with JavaScript/TypeScript and frontend frameworks such as React or Vue
+    
+- Strong understanding of relational databases such as PostgreSQL — not just querying them, but tuning them: indexing, query optimization, and strategies for scaling (read replicas, partitioning, connection pooling, etc.)
+    
+- Experience integrating with RESTful and/or GraphQL APIs
+    
+- Solid DevOps fundamentals: CI/CD pipelines, containerization, infrastructure monitoring, and hands-on experience scaling applications under real load
+    
+- Comfort with observability tooling (metrics, logging, tracing, alerting) and a habit of using it to debug and prevent production issues
+    
+- A love for building quality products that delight users and solve real problems
+    
+- Strong communication skills and a team-first mindset
     
 
-**💸 Benefits and Perks:**
+# **Nice to Haves**
 
-- 💻 Remote-first culture – Work from anywhere within ±4 hours of Pacific Time.
+- Familiarity with container orchestration (Kubernetes) or modern PaaS deployment
     
-- 🏥 Medical, dental & vision insurance – 100% of premiums covered for employees, 60% for dependents. HSA and FSA available with employer contribution. International benefits align with local standards.
+- Experience defining and working against SLOs/SLIs, or otherwise formalizing reliability targets
     
-- 🧠 Mental health support – Access to mental health resources and support.
+- Experience working in a SaaS or B2B product company
     
-- 💪 Monthly wellness stipend – A monthly stipend for gym memberships, fitness apps, and whatever helps you recharge.
+- Familiarity with C# / .NET
     
-- 🛡️ Life & disability insurance – Life insurance, short-term disability, and long-term disability coverage available.
+- Prior experience in the nonprofit tech space
     
-- 🌴 Flexible PTO – Flexible time off with a minimum annual requirement, because rest is part of doing your best work.
+- Contributions to open-source projects or relevant technical blogs
     
-- 👶 Parental leave – Up to 16 weeks of paid parental leave for expecting parents.
+- Excitement about helping teams grow and mature their engineering practices
     
-- 📚 $1,000 annual learning stipend – An annual budget for courses, books, conferences, and certifications.
+
+# **About Us**
+
+Virtuous software is powering the world’s leading nonprofits and inspiring a new generation of generosity.
+
+At Virtuous, we believe generosity has the power to transform the world - and so we are on a mission to create $10B in net new generosity by helping nonprofits better connect with and inspire their donors.
+
+Our talented team is hungry, humble, and committed to delivering best-in-class software solutions, customer success interactions, and sales experiences to the nonprofit community.
+
+Our values are more than just a poster on the wall. Instead, our mission and values are precisely why candidates choose Virtuous. Our core values are:
+
+1. **Build Better**: We build audacious ideas to accelerate philanthropy and dismantle the status quo.
     
-- ✈️ Company & team offsites – Company and team bonding trips throughout the year, fully covered by Lumos.
+2. **Display Radical Generosity**: We are generous with our time & talent as we serve our team and the nonprofit community.
     
-- 💰 401(k) with matching – Employer 401(k) matching to help you save for the future.
+3. **Stay Humble & Enjoy the Journey**: We take our work seriously, but we don't take ourselves too seriously.
+    
+
+Virtuous should act as a career accelerator for everyone on our team. Team members should look back at their time at Virtuous as one of the most productive and stretching seasons in their professional lives. This means that working at Virtuous isn't for everybody. It is for the select few who are ready to do hard things and build something truly great.
+
+If this sounds like you, we’d love for you to apply!
+
+# **What We Offer**
+
+- Market competitive pay leveraging Carta data
+    
+- Employee recognition through Bonusly (birthdays, anniversaries, achievements, etc.)
+    
+- 401(k) retirement plan with company matching- 50% match up to 6% of compensation after 90 days
+    
+- We value our employee’s work-life balance and encourage taking advantage of Unlimited PTO
+    
+- Supportive time off including paid volunteer days and company holidays
+    
+- Employer-contributed healthcare benefits, encompassing medical, dental, and vision coverage, with plans available for dependents and choices for Health Savings Accounts (HSA) and Flexible Spending Accounts (FSA).
+    
+- 12 weeks primary parent leave, 4 weeks secondary parent leave - full pay (adoption as well)
+    
+- We pride ourselves on Community and host exciting company outings and events.
+    
+
+We’ve recently noticed an increase in recruitment scams where individuals are impersonating recruiters to obtain personal or financial information through fraudulent interviews and job offers.  
+  
+Please note that all legitimate communication from Virtuous will only come from the @[virtuous.org](http://virtuous.org/) domain. If you receive a message from other domains, even if they look similar (e.g., [virtuouscareers.org](http://virtuouscareers.org/) or [virtuousjobs.com](http://virtuousjobs.com/)), they are **not legitimate** and we recommend disregarding it immediately.
