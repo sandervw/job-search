@@ -1,4 +1,7 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Lumos,null,2026-09-22,Ashby,Pending,null,Role not named in confirmation email
+Akkio,Senior Software Engineer,2026-09-22,Kula,Pending,null,null
+Render,Senior/Staff Data Scientist,2026-09-22,Ashby,Pending,null,null
 Skylight,Senior Analytics Engineer (Finance & Operations),2026-09-21,Workable,Pending,null,null
 Clair,"Senior Fullstack Engineer, Core Products",2026-09-21,Ashby,Pending,null,null
 ezCater,"Senior Software Engineer, Platform Infrastructure (Remote)",2026-09-21,Greenhouse,Pending,null,null
@@ -207,7 +210,7 @@ Rula,Sr. Analytics Engineer (Remote),2026-08-11,Ashby,Rejected,2026-09-08,null
 Coinbase,"Senior Staff Software Engineer, Data Platform",2026-08-11,Company careers site,Rejected,2026-08-12,null
 Circle,null,2026-08-11,Company careers site,Pending,null,Role not named in confirmation email
 SentinelOne,Staff AI Platform Engineer,2026-08-10,Company careers site,Pending,null,null
-Aledade,Senior Software Engineer II - Ingestion AI Engineer,2026-08-10,Lever,Pending,null,null
+Aledade,Senior Software Engineer II - Ingestion AI Engineer,2026-08-10,Lever,Rejected,2026-09-22,null
 SpyCloud,Senior Data Engineer,2026-08-10,Greenhouse,Rejected,2026-08-13,null
 CoreWeave,Staff Data Engineer - Data Engineering,2026-08-10,Greenhouse,Pending,null,null
 NVIDIA,"Senior Data Engineer, Engineering Data Analytics (JR2020545)",2026-08-10,Workday,Rejected,2026-08-10,null
@@ -224,7 +227,7 @@ Expel,Senior AI Platform Engineer,2026-08-05,Greenhouse,Rejected,2026-09-11,null
 Juniper Square,"Senior Staff Software Engineer, Data",2026-08-04,Ashby,Pending,null,null
 Shift5,Staff Data Engineer,2026-08-04,Greenhouse,Pending,null,null
 EvolutionIQ,Senior Software Engineer (AI Data Engineering),2026-08-04,Greenhouse,Pending,null,null
-AlphaSense,Staff Software Engineer,2026-08-04,Greenhouse,Pending,null,null
+AlphaSense,Staff Software Engineer,2026-08-04,Greenhouse,Rejected,2026-09-22,null
 Jellyfish,Staff Data Engineer,2026-08-04,Ashby,Rejected,2026-08-07,null
 Workiva,Staff Data Engineer,2026-08-03,Workday,Pending,null,Second Workiva role (also applied to Staff Data and AI Platform Engineer on 08-15)
 OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,null
