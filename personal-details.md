@@ -5,7 +5,7 @@ Sander is an Iowa-based data engineer, writer, and tinkerer. He holds a B.S. in 
 
 ## Professional work
 - **Current stack:** SQL Server, SSIS, Ataccama MDM, Power BI, and SSAS Tabular, mid-migration to Azure/Microsoft Fabric. Growing use of dbt Core, DuckDB, Dagster, and Python. He has dug into Fabric deployment patterns (fabric-cicd, Terraform provider, Fabric CLI), dbt adapter maturity, and FinOps (pausing Fabric capacity).
-- **AI adoption champion:** Rolled out Claude Code internally with a security framework (least-privilege SQL logins, managed settings, MCP servers across DEV/UAT/PRD environments), cutting Agile story delivery time by roughly 60%. Maintains a library of custom Claude skills for both work and creative writing.
+- **AI adoption champion:** Rolled out Claude Code internally with a security framework (least-privilege SQL logins, managed settings, MCP servers across DEV/UAT/PRD environments), cutting Agile story delivery time roughly in half. Maintains a library of custom Claude skills for both work and creative writing.
 - **Portfolio projects:** Gutenberg-Fingerprint, a stylometrics pipeline (OVH VPS, Postgres, Dagster OSS, dbt Core, Cloudflare, Bicep IaC, GitHub Actions), successor to Fiction-Fingerprint (DuckDB, dbt, Evidence.dev). Also LeavesApp (React 19, Node/Express 5, TypeScript, MongoDB, Azure), dying-skies (React/TS, FastAPI, Postgres), and Data-Team-Tarot (Astro + React).
 - **Comfortable with:** Python, SQL, React, Node/Express, TypeScript, modern data stack tooling (dbt, Dagster, dlt/Airbyte), SQL Server internals.
 

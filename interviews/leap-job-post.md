@@ -1,14 +1,8 @@
-**About Us**  
-  
-At Leap, we’re on a mission to transform the home improvement industry - and we want you to be part of that journey. We’re proud to be recognized on the Inc. 5000 and Inc. Regionals lists for 5+ consecutive years, reflecting sustained growth driven by innovation, strong execution, and an incredible team. We build technology that helps contractors work smarter, scale faster, and deliver better experiences to their customers.  
-  
-When you join Leap, you’ll work alongside curious minds, bold innovators, and thoughtful risk-takers who care deeply about doing great work - and doing it together. Our culture is transparent, supportive, and grounded in approachable leadership. We actively listen to our employees through semi-annual engagement surveys, maintain a strong eNPS score, and consistently act on feedback to improve what’s working and where we can do better. We believe great work happens when people are supported outside of work, which is why we offer comprehensive benefits and wellness resources for you and your family.  
-  
-Take the Leap today and help shape what’s next.
+
 
 ## About Leap
 
-Leap builds the software home improvement contractors run their business on: CRM, sales and estimating, project execution, payments, and financing. Leap Pay and Leap Lend are the payments and lending services inside that suite today, and contractors run real financing volume through them every day. We are rebuilding them as a standalone, API-first fintech platform that runs on its own for contractors and partners and embeds inside Leap’s products. It unifies more than a dozen home improvement lenders behind one application experience: multi-lender waterfall routing, predictive lender matching, stipulation handling, funding disbursement, and the regulatory compliance that goes with all of it.
+Leap builds the software home improvement contractors run their business on: CRM, sales and estimating, project execution, payments, and financing. **Leap Pay and Leap Lend** are the payments and lending services inside that suite today, and contractors run real financing volume through them every day. We are rebuilding them as **a standalone, API-first fintech platform** that runs on its own for contractors and partners and embeds inside Leap’s products. It unifies more than a dozen home improvement lenders behind one application experience: multi-lender waterfall routing, predictive lender matching, stipulation handling, funding disbursement, and the regulatory compliance that goes with all of it.
 
 ## About the Role
 
@@ -16,23 +10,23 @@ You lead the FinTech engineering team, and you stay in the code. The team is a p
 
 Leap is an AI-native company, and this codebase is built for it. We do not permit AI-assisted development, we build around it: an agent-oriented skills architecture, MCP tooling, spec-driven work, and agents running in parallel are how the team ships every day. This role carries a high bar for how you personally build with AI, and a second bar for how you bring a team to that way of working. We want an engineer who hands whole features to autonomous agents, runs several at once, reviews and directs their output rather than hand-typing most of the code, and builds the skills, tools, and guardrails that make agents effective. Engineers who use AI for autocomplete or the occasional prompt are not who we are looking for, and if this is not already how you work, this is not the right role.
 
-The role is deliberately sequenced. You start inside the services contractors use today: the lender integrations, the credit application flow, the Leap Pay path, and the data model under both. You ship improvements there, write down how it actually works, and teach it back to the rest of engineering. In parallel, you review and contribute to the new platform as it stands up. As you ramp, ownership of the new build transfers to you, from contributor, to owner of the major domains (lender integration and orchestration, application submission and waterfall, onboarding and compliance capture), to accountable owner of the platform. Legacy and new will run side by side for a year or more, and you own the seam between them: the contracts, the migration path, what retires, and what runs in parallel.
+The role is deliberately sequenced. You start inside the services contractors use today: the lender integrations, the credit application flow, the Leap Pay path, and the data model under both. You ship improvements there, write down how it actually works, and teach it back to the rest of engineering. In parallel, you review and contribute to the new platform as it stands up. As you ramp, ownership of the new build transfers to you, from contributor, to owner of the major domains (lender integration and orchestration, application submission and waterfall, onboarding and compliance capture), to accountable owner of the platform. **Legacy and new will run side by side for a year or more, and you own the seam between them: the contracts, the migration path, what retires, and what runs in parallel.**
 
-You sit inside Leap Engineering. Our SDLC, release process, code review, alerting and on-call, and delivery review apply to FinTech the same way they apply to every team. The Head of FinTech is your daily product and business partner: lender relationships, compliance obligations, and the commercial commitments the build is made against. You bring that context into engineering and carry engineering decisions back. One rule applies to everyone: if you are blocked, that is the top priority, and staying quiet about a blocker is on you.
+You sit inside Leap Engineering. Our SDLC, release process, code review, alerting and on-call, and delivery review apply to FinTech the same way they apply to every team. The Head of FinTech is your daily product and business partner: lender relationships, compliance obligations, and the commercial commitments the build is made against. You bring that context into engineering and carry engineering decisions back.
 
 ## What You Will Do
 
-- Lead the FinTech engineering team: planning, technical design review, code review standards, mentorship, and interviewing as the team grows
-- Write production code in critical-path systems; roughly 70% of your time is hands-on
-- Ship with agents, not around them: delegate whole features to autonomous agents, run several in parallel, and own the spec, the review, and the bar for everything they produce
+- **Lead the FinTech engineering team**: planning, technical design review, code review standards, mentorship, and interviewing as the team grows
+- Write production code in critical-path systems; roughly **70% of your time is hands-on**
+- Ship with agents, not around them: **delegate whole features to autonomous agents, run several in parallel**, and own the spec, the review, and the bar for everything they produce
 - Bring the FinTech team and the partner team to the same way of working: the skills architecture, MCP tools, specs, and guardrails that let agents ship safely, and the standard for where to trust them and where a human stays in the loop
 - Codify context and patterns so both engineers and agents move faster, and keep raising the ceiling of what can be delegated
 - Build a working command of the lending and payment services in Leap SalesPro and Leap CRM, improve them, and document them so the knowledge does not live in one person
-- Set technical direction for the partner team’s work on the new platform and hold the bar through standards, review, and early escalation rather than org-chart authority
+- **Set technical direction for the partner team**’s work on the new platform and hold the bar through standards, review, and early escalation rather than org-chart authority
 - Own major domains of the new platform end to end: data model, API surface, service boundaries, and production operation
 - Own the integration seam between the new platform and Leap’s products: API contracts, event boundaries, the migration path off legacy implementations, and consolidation of duplicated payment code into shared services
 - Handle money and sensitive data with rigor: integer-cents arithmetic, idempotency, reconciliation, immutable audit trails, KYC and KYB, and PII
-- Keep Eastern hours; the engineers you lead are in India and daily overlap is part of the job
+- **Keep Eastern hours**; the engineers you lead are in India and daily overlap is part of the job
 
 ## The Work
 
