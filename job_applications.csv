@@ -1,7 +1,13 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Istari Digital,Sr. Product Engineer - Data Platform,2026-09-25,Lever,Pending,null,Second Istari Digital application (also applied to Sr. Product Engineer on 2026-09-23)
+Norm,null,2026-09-25,Ashby,Pending,null,Role not named in confirmation email
+Beacon Biosignals,null,2026-09-25,Greenhouse,Pending,null,Role not named in confirmation email
+Engine,Staff Software Engineer,2026-09-25,Company careers site,Pending,null,null
+eClinical Solutions,null,2026-09-25,Greenhouse,Pending,null,Role not named in confirmation email
 Human Interest,Senior Software Engineer,2026-09-24,Greenhouse,Pending,null,null
 Pomelo Care,null,2026-09-24,Greenhouse,Pending,null,Role not named in confirmation email
 Vetcove,Staff Software Engineer,2026-09-24,Ashby,Pending,null,null
+Stripe,"Staff Software Engineer, Startup Products",2026-09-24,Company careers site,Pending,null,null
 Istari Digital,Sr. Product Engineer,2026-09-23,Lever,Pending,null,null
 Trunk Tools,Senior Full Stack Engineer,2026-09-23,Ashby,Pending,null,null
 Virtuous,Senior Software Engineer (Full Stack) - Donor Intelligence,2026-09-23,Ashby,Pending,null,null
@@ -27,7 +33,7 @@ Nous Research,General Pool Engineer,2026-09-18,Direct email,Pending,null,Third N
 b.well Connected Health,Staff Data Engineer,2026-09-18,Newton,Pending,null,null
 Fleetio,null,2026-09-17,Greenhouse,Pending,null,Role not named in confirmation email
 Acorns,"Senior Full-Stack Software Engineer, Community Building",2026-09-17,Ashby,Pending,null,null
-Eve Legal,Senior Data Engineer,2026-09-16,Greenhouse,Pending,null,null
+Eve Legal,Senior Data Engineer,2026-09-16,Greenhouse,Rejected,2026-09-25,null
 Syllo,"Senior Software Engineer, Applied AI",2026-09-16,Greenhouse,Pending,null,null
 Leap,"Engineering Lead, FinTech",2026-09-16,Greenhouse,Withdrawn,2026-09-24,Interview scheduled for 2026-09-24 was cancelled by the interviewer (emergency); Sander withdrew the application the same day after the company confirmed they understood
 Amplitude,Full-Stack Senior Software Engineer,2026-09-16,Company careers site,Pending,null,null
