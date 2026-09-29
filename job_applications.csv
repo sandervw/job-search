@@ -1,4 +1,8 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
+ZBD,Senior Analytics Engineer,2026-09-28,Company careers site,Pending,null,Pinpoint ATS
+Tala,Analytics Platforms Architect,2026-09-28,Lever,Pending,null,null
+Thumbtack,"Sr. Data Scientist, Business Analytics",2026-09-28,Ashby,Pending,null,null
 G2,"Senior Software Engineer, Full-Stack",2026-09-27,Ashby,Pending,null,null
 april,Full-Stack Engineer / Senior Full-Stack Engineer,2026-09-27,Ashby,Pending,null,null
 Rocket Money,"Senior Full Stack Engineer, Premium",2026-09-27,Greenhouse,Pending,null,Second Rocket Money application (also applied to role not named in confirmation email on 2026-09-10)
@@ -6,7 +10,7 @@ Code Metal,Senior Software Engineer (Compiler & AI Tooling),2026-09-26,Ashby,Pen
 Render,Senior/Staff Data Engineer,2026-09-26,Ashby,Pending,null,Second Render application (also applied to Senior/Staff Data Scientist on 2026-09-22)
 Unite Us,Senior Data Engineer,2026-09-26,Greenhouse,Pending,null,null
 Istari Digital,Sr. Product Engineer - Data Platform,2026-09-25,Lever,Pending,null,Second Istari Digital application (also applied to Sr. Product Engineer on 2026-09-23)
-Norm,null,2026-09-25,Ashby,Pending,null,Role not named in confirmation email
+Norm,null,2026-09-25,Ashby,Rejected,2026-09-28,Role not named in confirmation email
 Beacon Biosignals,null,2026-09-25,Greenhouse,Pending,null,Role not named in confirmation email
 Engine,Staff Software Engineer,2026-09-25,Company careers site,Pending,null,null
 eClinical Solutions,null,2026-09-25,Greenhouse,Pending,null,Role not named in confirmation email
@@ -64,7 +68,7 @@ SmarterDx,null,2026-09-13,Greenhouse,Pending,null,Role not named in confirmation
 Spark Advisors,Senior Software Engineer,2026-09-13,Greenhouse,Pending,null,Insurance-adjacent (Medicare insurance brokerage software for independent agents) - flagging given no-insurance policy; application already submitted before this run
 Osmind,"Senior Software Engineer, US",2026-09-13,Lever,Rejected,2026-09-16,null
 Steno,null,2026-09-13,Rippling,Rejected,2026-09-15,Role not named in confirmation email
-Age of Learning,null,2026-09-13,Greenhouse,Pending,null,Role not named in confirmation email
+Age of Learning,null,2026-09-13,Greenhouse,Rejected,2026-09-28,Role not named in confirmation email; position closed
 Zipline,"Staff Software Engineer, Healthcare — Customer Experience",2026-09-12,Company careers site,Pending,null,null
 Greenlight Financial Technology,"Senior Software Engineer, Full-Stack (Web Core)",2026-09-12,Lever,Pending,null,null
 SeatGeek,Senior Software Engineer,2026-09-12,Company careers site,Pending,null,null
@@ -254,4 +258,3 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,nu
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Rejected,2026-09-21,null
-OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
