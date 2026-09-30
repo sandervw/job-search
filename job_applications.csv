@@ -1,4 +1,9 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
+Trulioo,Staff Engineer or Architect (AI Agentic Team),2026-09-29,Ashby,Pending,null,null
+OnePay,"Software Engineer, @Work",2026-09-29,Ashby,Pending,null,null
+Mattermost,null,2026-09-29,Greenhouse,Pending,null,Role not named in confirmation email
+CircleCI,Staff Software Engineer,2026-09-29,Greenhouse,Pending,null,null
 ZBD,Senior Analytics Engineer,2026-09-28,Company careers site,Pending,null,Pinpoint ATS
 Tala,Analytics Platforms Architect,2026-09-28,Lever,Pending,null,null
 Thumbtack,"Sr. Data Scientist, Business Analytics",2026-09-28,Ashby,Pending,null,null
@@ -81,7 +86,7 @@ RevenueCat,null,2026-09-11,Ashby,Rejected,2026-09-15,Role not named in confirmat
 Cordial,Senior Software Engineer,2026-09-10,Greenhouse,Pending,null,null
 Garner Health,null,2026-09-10,Company careers site,Pending,null,Role not named in confirmation email
 Epic Games,Senior Full Stack Engineer,2026-09-10,Company careers site,Pending,null,null
-BrightHire,null,2026-09-10,Greenhouse,Pending,null,Role not named in confirmation email
+BrightHire,null,2026-09-10,Greenhouse,Rejected,2026-09-29,Role not named in confirmation email
 Toast,null,2026-09-10,Greenhouse,Rejected,2026-09-15,Role not named in confirmation email
 Instacart,"Senior Software Engineer, Fulfillment",2026-09-10,Company careers site,Rejected,2026-09-11,"Second Instacart application (also applied to Senior Data Engineer II, Finance on 2026-08-24, rejected)"
 Rocket Money,null,2026-09-10,Greenhouse,Pending,null,Role not named in confirmation email
@@ -99,7 +104,7 @@ Helm.ai,null,2026-09-09,Ashby,Pending,null,Role not named in confirmation email
 Omni,Product Engineer,2026-09-09,Ashby,Pending,null,null
 E Source,null,2026-09-09,Ashby,Pending,null,Role not named in confirmation email
 Doximity,null,2026-09-09,Company careers site,Pending,null,Role not named in confirmation email
-Super.com,Senior Analytics Engineer,2026-09-09,Ashby,Pending,null,Second Super.com application (also applied to Senior Data Engineer on 2026-09-08)
+Super.com,Senior Analytics Engineer,2026-09-09,Ashby,Rejected,2026-09-29,Second Super.com application (also applied to Senior Data Engineer on 2026-09-08)
 Planet,"Senior Software Engineer, Storage Infrastructure",2026-09-09,Greenhouse,Pending,null,null
 Vantor,"Principal, AI Strategy & Engineering Transformation (R24444)",2026-09-08,Workday,Pending,null,Maxar/Vantor Workday tenant (sender maxar@myworkday.com); branded Vantor Talent Acquisition Team
 Super.com,Senior Data Engineer,2026-09-08,Ashby,Pending,null,Second Super.com application (also applied to Senior Analytics Engineer on 2026-09-09)
@@ -129,11 +134,11 @@ Next Step Systems,"Lead Software Engineer, AI Email Applications, Artificial Int
 Fora Financial,null,2026-09-03,Greenhouse,Pending,null,Role not named in confirmation email
 Affirm,"Senior Software Engineer, Backend (Lake Analytics Platform)",2026-09-03,Greenhouse,Pending,null,null
 Upstart,Senior Software Engineer - Machine Learning Platform,2026-09-03,Company careers site,Pending,null,null
-Smartsheet,null,2026-09-03,Greenhouse,Pending,null,Role not named in confirmation email
+Smartsheet,null,2026-09-03,Greenhouse,Rejected,2026-09-29,Role not named in confirmation email
 Motorola Solutions,"Sr Software Engineer, AI Agent Platform (R68335)",2026-09-03,Workday,Rejected,2026-09-03,Confirmation email found in this run (dated 2026-09-03); response was received same day
 Horizon3,Senior Data Infrastructure Engineer,2026-09-02,Ashby,Pending,null,"Second Horizon3 application (also applied to Senior Software Engineer, Agentic Systems on 2026-08-27)"
 Onebrief,Staff Simulation Data Modeler,2026-09-02,Ashby,Pending,null,null
-Webflow,null,2026-09-02,Company careers site,Pending,null,Role not named in confirmation email
+Webflow,null,2026-09-02,Company careers site,Rejected,2026-09-29,Role not named in confirmation email
 Honeycomb,Senior Software Engineer II - Agentic Intelligence,2026-09-02,Company careers site,Rejected,2026-09-15,null
 Databricks,AI Engineer — GTM Analytics,2026-09-02,Greenhouse,Pending,null,null
 WorkHero,"Senior Software Engineer, Voice AI & Data Infrastructure",2026-09-02,Ashby,Rejected,2026-09-03,null
@@ -257,4 +262,3 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,nu
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Rejected,2026-09-21,null
-OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
