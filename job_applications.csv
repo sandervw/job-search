@@ -1,4 +1,8 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
+Substack,null,2026-09-30,Ashby,Pending,null,Role not named in confirmation email
+Radformation,null,2026-09-30,Lever,Pending,null,Role not named in confirmation email
+Motional,"Senior Software Engineer, Data Platform",2026-09-30,Company careers site,Pending,null,null
 Trulioo,Staff Engineer or Architect (AI Agentic Team),2026-09-29,Ashby,Pending,null,null
 OnePay,"Software Engineer, @Work",2026-09-29,Ashby,Pending,null,null
 Mattermost,null,2026-09-29,Greenhouse,Pending,null,Role not named in confirmation email
@@ -45,7 +49,7 @@ Maze,Full Stack Engineer,2026-09-18,Ashby,Rejected,2026-09-21,Rejected due to lo
 Nous Research,General Pool Engineer,2026-09-18,Direct email,Pending,null,Third Nous Research application (also applied to Product Analytics Engineer on 2026-08-14 and Software Engineer on 2026-08-23); applied by emailing recruiting@nousresearch.com
 b.well Connected Health,Staff Data Engineer,2026-09-18,Newton,Pending,null,null
 Fleetio,null,2026-09-17,Greenhouse,Pending,null,Role not named in confirmation email
-Acorns,"Senior Full-Stack Software Engineer, Community Building",2026-09-17,Ashby,Pending,null,null
+Acorns,"Senior Full-Stack Software Engineer, Community Building",2026-09-17,Ashby,Rejected,2026-09-30,null
 Eve Legal,Senior Data Engineer,2026-09-16,Greenhouse,Rejected,2026-09-25,null
 Syllo,"Senior Software Engineer, Applied AI",2026-09-16,Greenhouse,Pending,null,null
 Leap,"Engineering Lead, FinTech",2026-09-16,Greenhouse,Withdrawn,2026-09-24,Interview scheduled for 2026-09-24 was cancelled by the interviewer (emergency); Sander withdrew the application the same day after the company confirmed they understood
@@ -230,7 +234,7 @@ Mayo Clinic,Lead Data Engineer - Enterprise Data & Analytics - Remote (387884),2
 3M,Lead Data Engineer (R01163597),2026-08-12,Workday,Rejected,2026-09-19,null
 GDIT,Lead Data Engineer (RQ226016),2026-08-12,Workday,Rejected,2026-09-17,null
 HubSpot,Staff Analytics Engineer,2026-08-12,Company careers site,Rejected,2026-08-14,null
-Recorded Future,Principal Software Engineer,2026-08-12,Greenhouse,Pending,null,null
+Recorded Future,Principal Software Engineer,2026-08-12,Greenhouse,Rejected,2026-09-30,null
 Palo Alto Networks,Principal IT Data Engineer - Finance,2026-08-12,Workday,Pending,null,null
 CrowdStrike,"Sr. Software Engineer, Cloud - Analytics Platform",2026-08-12,Workday,Rejected,2026-08-27,null
 Rula,Sr. Analytics Engineer (Remote),2026-08-11,Ashby,Rejected,2026-09-08,null
@@ -261,4 +265,3 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,nu
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Rejected,2026-09-21,null
-OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
