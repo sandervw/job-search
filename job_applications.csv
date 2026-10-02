@@ -1,5 +1,8 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
-OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
+City Detect,Full Stack Product Engineer (Design & Geospatial Focus),2026-10-01,Company careers site,Pending,null,Gem ATS
+Carrot,null,2026-10-01,Greenhouse,Pending,null,Role not named in confirmation email
+EverCommerce,"EverHealth - Lead Software Engineer (Remote, US)",2026-10-01,Workday,Pending,null,null
+Blend360,Full Stack Developer,2026-10-01,Company careers site,Pending,null,null
 Substack,null,2026-09-30,Ashby,Pending,null,Second Substack application (also applied on 2026-09-09); role not named in confirmation email
 Radformation,null,2026-09-30,Lever,Pending,null,Role not named in confirmation email
 Motional,"Senior Software Engineer, Data Platform",2026-09-30,Company careers site,Pending,null,null
@@ -55,7 +58,7 @@ Syllo,"Senior Software Engineer, Applied AI",2026-09-16,Greenhouse,Pending,null,
 Leap,"Engineering Lead, FinTech",2026-09-16,Greenhouse,Withdrawn,2026-09-24,Interview scheduled for 2026-09-24 was cancelled by the interviewer (emergency); Sander withdrew the application the same day after the company confirmed they understood
 Amplitude,Full-Stack Senior Software Engineer,2026-09-16,Company careers site,Pending,null,null
 Fieldguide,"Software Engineer, Audit (Full Stack)",2026-09-16,Ashby,Rejected,2026-09-21,null
-PAR,Sr. Data Engineer,2026-09-16,Ashby,Pending,null,null
+PAR,Sr. Data Engineer,2026-09-16,Ashby,Rejected,2026-10-01,null
 Spoiler Alert,Senior Data Engineer,2026-09-16,Company careers site,Pending,null,null
 Descript,"Software Engineer, Product",2026-09-16,Company careers site,Rejected,2026-09-16,"Second Descript application (also applied to role not named in confirmation email, rejected 2026-09-16); confirmation and rejection arrived combined in one email via Gem (appreview.gem.com) ATS"
 Jitx Inc.,Principal Full Stack Software Engineer,2026-09-15,Lever,Pending,null,null
@@ -128,7 +131,7 @@ Komodo Health,null,2026-09-06,Greenhouse,Pending,null,Role not named in confirma
 Thomson Reuters,"Staff Software Engineer / Architect - AI, CoCounsel FDE (JREQ200171)",2026-09-05,Workday,Rejected,2026-09-11,null
 Rad AI,null,2026-09-05,Ashby,Pending,null,Role not named in confirmation email
 DISCO,Enterprise AI Platform Engineer,2026-09-05,Greenhouse,Pending,null,null
-Cohere Health,"Sr. Software Engineer, Data Platform",2026-09-05,Company careers site,Pending,null,Health-tech company builds prior-authorization/utilization-management software for health insurance payers - flagging given no-insurance policy; application already submitted before this run
+Cohere Health,"Sr. Software Engineer, Data Platform",2026-09-05,Company careers site,Rejected,2026-10-01,Health-tech company builds prior-authorization/utilization-management software for health insurance payers - flagging given no-insurance policy; application already submitted before this run
 Wikimedia Foundation,"Senior Software Engineer, Wikidata Platform",2026-09-04,Company careers site,Pending,null,null
 NPR,"Senior Software Architect, Audience Lifecycle",2026-09-04,Greenhouse,Pending,null,null
 Upstart,Senior Software Engineer - Capital Insights,2026-09-04,Company careers site,Pending,null,Second Upstart application (also applied to Senior Software Engineer - Machine Learning Platform on 2026-09-03)
@@ -158,7 +161,7 @@ Perplexity,null,2026-08-30,Ashby,Pending,null,Role not named in confirmation ema
 LaunchDarkly,null,2026-08-30,Greenhouse,Pending,null,Role not named in confirmation email
 KoBold Metals,null,2026-08-30,Company careers site,Pending,null,Role not named in confirmation email
 Confluent,"Principal I, Engineering",2026-08-30,Ashby,Pending,null,null
-Aurora Solar,Staff Analytics Engineer,2026-08-30,Ashby,Pending,null,null
+Aurora Solar,Staff Analytics Engineer,2026-08-30,Ashby,Rejected,2026-10-01,null
 phData,null,2026-08-29,Greenhouse,Pending,null,Role not named in confirmation email
 Redapt,null,2026-08-29,Greenhouse,Pending,null,Role not named in confirmation email
 Zencore,"Principal Architect, AI/ML",2026-08-29,Lever,Pending,null,null
@@ -265,3 +268,5 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,nu
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Rejected,2026-09-21,null
+OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
+Empower,Senior Data Platform Engineer (R.0056639),null,Workday,Rejected,2026-10-02,"Third Empower application; no confirmation email found so application date is unknown, only the rejection was located"
