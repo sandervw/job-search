@@ -1,5 +1,9 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
-City Detect,Full Stack Product Engineer (Design & Geospatial Focus),2026-10-01,Company careers site,Pending,null,Gem ATS
+Paradigm Health,null,2026-10-02,Ashby,Pending,null,Role not named in confirmation email
+Snout,Founding Data Engineer,2026-10-02,Company careers site,Pending,null,Gem ATS
+Relevant,Lead Engineer,2026-10-02,Direct email,Pending,null,Applied via email to jobs@relevant.healthcare; auto-acknowledged
+Solace,Senior Fullstack Software Engineer,2026-10-02,Ashby,Pending,null,null
+City Detect,Full Stack Product Engineer (Design & Geospatial Focus),2026-10-01,Company careers site,Rejected,2026-10-02,Gem ATS
 Carrot,null,2026-10-01,Greenhouse,Pending,null,Role not named in confirmation email
 EverCommerce,"EverHealth - Lead Software Engineer (Remote, US)",2026-10-01,Workday,Pending,null,null
 Blend360,Full Stack Developer,2026-10-01,Company careers site,Pending,null,null
@@ -12,7 +16,7 @@ Mattermost,null,2026-09-29,Greenhouse,Pending,null,Role not named in confirmatio
 CircleCI,Staff Software Engineer,2026-09-29,Greenhouse,Pending,null,null
 ZBD,Senior Analytics Engineer,2026-09-28,Company careers site,Pending,null,Pinpoint ATS
 Tala,Analytics Platforms Architect,2026-09-28,Lever,Pending,null,null
-Thumbtack,"Sr. Data Scientist, Business Analytics",2026-09-28,Ashby,Pending,null,null
+Thumbtack,"Sr. Data Scientist, Business Analytics",2026-09-28,Ashby,Rejected,2026-10-02,null
 G2,"Senior Software Engineer, Full-Stack",2026-09-27,Ashby,Pending,null,null
 april,Full-Stack Engineer / Senior Full-Stack Engineer,2026-09-27,Ashby,Pending,null,null
 Rocket Money,"Senior Full Stack Engineer, Premium",2026-09-27,Greenhouse,Pending,null,Second Rocket Money application (also applied to role not named in confirmation email on 2026-09-10)
@@ -213,7 +217,7 @@ Anthropic,"Staff+ Software Engineer, Data Infrastructure",2026-08-18,Greenhouse,
 Empower,Senior Data Engineer (R.0061234),2026-08-18,Workday,Rejected,2026-09-04,Application confirmation email not previously captured; application date taken from the rejection email's business-process record
 Samsara,Sr. AI Engineer,2026-08-17,Greenhouse,Pending,null,null
 Grafana Labs,Senior AI Engineer - Grafana AI/ML | USA | Remote,2026-08-17,Company careers site,Pending,null,null
-Airbnb,"Lead, Advanced Analytics, Community Support",2026-08-17,Company careers site,Pending,null,null
+Airbnb,"Lead, Advanced Analytics, Community Support",2026-08-17,Company careers site,Rejected,2026-10-02,null
 DoubleVerify,Sr. Software Engineer II - Rockerbox,2026-08-16,Company careers site,Rejected,2026-09-02,null
 Horizontal Talent,Senior AI Engineer (Job ID 75608),2026-08-16,Company careers site,Pending,null,Staffing agency
 Motion Recruitment,"Senior Analytics Engineer - Robotics Intelligence (Somerville, MA)",2026-08-16,Dice,Pending,null,Applied via Dice; staffing agency
