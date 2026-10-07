@@ -1,6 +1,6 @@
-Look, [TODO - person name or COMPANY-HIRING-TEAM],
+Look, [TODO - person name or "Company-hiring-person"],
 
-I'm going to be straight with ya': there's nothing special about [TODO - Company Name]. I could have AI write this up, telling you I'm the perfect candidate because of X - the same cover letter you've seen 100 other times. The truth is, you didn't stand out. Your posting had the same techs as every other posting - [TODO - list 4]. The same missions - move fast, AI-native. Same Dental/401K/PTO benefits.
+I'm going to be straight with ya': nothing's special about [TODO - Company Name]. I could have AI write this up, telling you I'm the perfect candidate because of X - the same cover letter you've seen 100 other times. The truth is, you didn't stand out. Your posting had the same techs as every other posting - [TODO - list 4]. The same missions - move fast, AI-native. Same Dental/401K/PTO benefits.
 
 If you're looking for someone who "Has dreamed of working on [TODO - their product] since they were just a few stem cells big," I'm not that guy.
 
