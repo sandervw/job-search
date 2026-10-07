@@ -1,4 +1,8 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
+Empower,Senior Data Platform Engineer (R.0056639),null,Workday,Rejected,2026-10-02,"Third Empower application; no confirmation email found so application date is unknown, only the rejection was located"
+GC AI,"Member of Technical Staff, Applied AI",2026-10-06,Ashby,Pending,null,null
+Twilio,"Senior, Business Intelligence Engineer",2026-10-06,Company careers site,Rejected,2026-10-06,"Confirmation email not captured, application_date is an estimate based on the rejection email date"
 Abridge,"Member of Technical Staff, Data",2026-10-05,Ashby,Pending,null,null
 Firstup,Senior Data Engineer (US),2026-10-05,Lever,Pending,null,null
 Fingerprint,Senior Data Warehouse Engineer,2026-10-05,Company careers site,Pending,null,null
@@ -33,7 +37,7 @@ Istari Digital,Sr. Product Engineer - Data Platform,2026-09-25,Lever,Pending,nul
 Norm,null,2026-09-25,Ashby,Rejected,2026-09-28,Role not named in confirmation email
 Beacon Biosignals,null,2026-09-25,Greenhouse,Pending,null,Role not named in confirmation email
 Engine,Staff Software Engineer,2026-09-25,Company careers site,Pending,null,null
-eClinical Solutions,null,2026-09-25,Greenhouse,Pending,null,Role not named in confirmation email
+eClinical Solutions,null,2026-09-25,Greenhouse,Rejected,2026-10-06,Role not named in confirmation email; rejected for Principal AI Engineer – Automation & AI
 Human Interest,Senior Software Engineer,2026-09-24,Greenhouse,Pending,null,null
 Pomelo Care,null,2026-09-24,Greenhouse,Pending,null,Role not named in confirmation email
 Vetcove,Staff Software Engineer,2026-09-24,Ashby,Pending,null,null
@@ -143,7 +147,7 @@ Rad AI,null,2026-09-05,Ashby,Pending,null,Role not named in confirmation email
 DISCO,Enterprise AI Platform Engineer,2026-09-05,Greenhouse,Pending,null,null
 Cohere Health,"Sr. Software Engineer, Data Platform",2026-09-05,Company careers site,Rejected,2026-10-01,Health-tech company builds prior-authorization/utilization-management software for health insurance payers - flagging given no-insurance policy; application already submitted before this run
 Wikimedia Foundation,"Senior Software Engineer, Wikidata Platform",2026-09-04,Company careers site,Pending,null,null
-NPR,"Senior Software Architect, Audience Lifecycle",2026-09-04,Greenhouse,Pending,null,null
+NPR,"Senior Software Architect, Audience Lifecycle",2026-09-04,Greenhouse,Rejected,2026-10-06,null
 Upstart,Senior Software Engineer - Capital Insights,2026-09-04,Company careers site,Pending,null,Second Upstart application (also applied to Senior Software Engineer - Machine Learning Platform on 2026-09-03)
 Notable,AI Platform Engineer,2026-09-04,Ashby,Rejected,2026-09-07,null
 Next Step Systems,"Lead Software Engineer, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home",2026-09-03,Dice,Pending,null,Applied via Dice; staffing agency
@@ -278,5 +282,3 @@ OpenRouter,"Software Engineer, Platform",2026-08-03,Ashby,Rejected,2026-09-09,nu
 Anthropic,Data Engineer,2026-07-31,Greenhouse,Rejected,2026-08-02,null
 Anthropic,"Data Scientist, Safeguards",2026-07-31,Greenhouse,Rejected,2026-08-06,null
 Anthropic,"Data Engineer, Safeguards",2026-07-31,Greenhouse,Rejected,2026-09-21,null
-OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
-Empower,Senior Data Platform Engineer (R.0056639),null,Workday,Rejected,2026-10-02,"Third Empower application; no confirmation email found so application date is unknown, only the rejection was located"
