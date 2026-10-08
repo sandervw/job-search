@@ -4,7 +4,7 @@ I'm going to be straight with ya': nothing's special about [TODO - Company Name]
 
 If you're looking for someone who "Has dreamed of working on [TODO - their product] since they were just a few stem cells big," I'm not that guy.
 
-I AM the guy who loves building things in code. I'm un-particular about the details. I love building with AI/Claude-Code/Agents, and without. I love building in React, or Astro, or even native JS. I love working on the frontend, and working on data pipelines. Even the system doesn't matter: I'll work on Windows, Linux, anything. It doesn't even really matter WHAT I'm building - if something needs building in code, I'll build it. It' what I'm best at, where I learn the most, what I like in life.
+I AM the guy who loves building things in code. I'm un-particular about the details. I love building with AI/Claude-Code/Agents, and without. I love building in React, or Astro, or even native JS. I love working on the frontend, and working on data pipelines. Even the system doesn't matter: I'll work on Windows, Linux, anything. It doesn't even really matter WHAT I'm building - if something needs building in code, I'll build it. It's what I'm best at, where I learn the most, what I like in life.
 
 Your needs are the same as everyone else's. A high-ownership engineer. Deep experience in X. Ships complete products that customers will love. Insert a fourth copy/paste from the job app here, etc, etc. That's, like, a 20% interest for me right now; that would jump to 120% in a flash if I were actually Building your product. The more I invest in building stuff for [TODO - Company Name] the "special-er" it gets.
 

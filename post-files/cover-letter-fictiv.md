@@ -1,27 +1,3 @@
-Dear [TODO],
-
-Up-front: if you or [TODO] are not interested in receiving spontaneous job application emails, READ NO FURTHER. Delete my email. The last thing I want is to be a bother to you or [TODO].
-
-My name is Sander VanWilligen, I'm an experienced Software Engineer and the reason I'm reaching out is, plainly - I'm looking for a job, and I love [TODO].
-
-[TODO - go into reasons for applying - what you like, what skills you have]
-
-I've attached my resume. You can reach out to me at this email, or my phone at (515)-451-0262. If you don't reply, that'll be the end of it. I will not solicit you, I will not pursue you. But if you do reply out, I will solicit you, I will contact you, and I will work for you.
-
-All the best,
-Sander VanWilligen
-
-
----
-
-Concept 2: TODO
-Critical Role: https://critrole.com/
-Obsidian: https://obsidian.md/about
-Hollow-Press: https://hollow-press.net/pages/contact-hollow-press
-Wildermyth: https://www.worldwalkergames.com/
-
----
-
 I'm going to answer this question, but I'm going to try a different tactic on this app. I've never tried begging, so I'm begging you: please, help me escape from this ten-year, impossibly-slow insurance hell! I can't stand it, I'm losing my mind. Every decision needs a triple confirmation, everyone sits in silence in the meetings, until one person speaks up and repeats what the last person said. We "can't adopt that fast, quick-turnaround product, because we have our legacy monolith system we need to support," or "We can't allow you to use Claude-Code SQL-server MCPs, because we're concerned about Claude-Code reading our data." Please, help - I can't take it anymore!
 
 All of my work is build with AI agents, specifically Claude-Code and openRouter/opencode. One of my favorites was the split-duties framework I build for dying-skies (https://github.com/sandervw/dying-skies). I basically had a monorepo with four parts, where I had: 1 developer agent per part, 1 code-standards/security-validator per part, and one integration tester between parts. For the code-standards one I hand-tuned the agent (no comments above 12 characters, no files longer than 300 lines, stuff like that). The ending-code didn't just work, but was also super-clean and understandable.
