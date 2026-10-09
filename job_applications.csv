@@ -1,6 +1,8 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
 OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
 Empower,Senior Data Platform Engineer (R.0056639),null,Workday,Rejected,2026-10-02,"Third Empower application; no confirmation email found so application date is unknown, only the rejection was located"
+Fictiv,Senior AI Growth Engineer,2026-10-08,Greenhouse,Pending,null,null
+Luxury Presence,Senior Analytics Engineer - US (Remote),2026-10-08,Lever,Pending,null,null
 Cacheflow,Senior Frontend/Full stack Engineer,2026-10-07,SmartRecruiters,Pending,null,null
 Curai Health,"Senior Software Engineer, Full-Stack",2026-10-07,Lever,Pending,null,null
 Placer.ai,null,2026-10-07,Greenhouse,Pending,null,Role not named in confirmation email
@@ -27,7 +29,7 @@ Motional,"Senior Software Engineer, Data Platform",2026-09-30,Company careers si
 Trulioo,Staff Engineer or Architect (AI Agentic Team),2026-09-29,Ashby,Pending,null,null
 OnePay,"Software Engineer, @Work",2026-09-29,Ashby,Pending,null,null
 Mattermost,null,2026-09-29,Greenhouse,Pending,null,Role not named in confirmation email
-CircleCI,Staff Software Engineer,2026-09-29,Greenhouse,Pending,null,null
+CircleCI,Staff Software Engineer,2026-09-29,Greenhouse,Rejected,2026-10-06,null
 ZBD,Senior Analytics Engineer,2026-09-28,Company careers site,Pending,null,Pinpoint ATS
 Tala,Analytics Platforms Architect,2026-09-28,Lever,Pending,null,null
 Thumbtack,"Sr. Data Scientist, Business Analytics",2026-09-28,Ashby,Rejected,2026-10-02,null
