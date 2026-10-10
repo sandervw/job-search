@@ -1,6 +1,8 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
 OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
 Empower,Senior Data Platform Engineer (R.0056639),null,Workday,Rejected,2026-10-02,"Third Empower application; no confirmation email found so application date is unknown, only the rejection was located"
+Baseten,Software Engineer - Inference Platform,2026-10-09,Ashby,Pending,null,null
+Benepass,Sr. Data Engineer,2026-10-09,Ashby,Pending,null,null
 Fictiv,Senior AI Growth Engineer,2026-10-08,Greenhouse,Pending,null,null
 Luxury Presence,Senior Analytics Engineer - US (Remote),2026-10-08,Lever,Pending,null,null
 Cacheflow,Senior Frontend/Full stack Engineer,2026-10-07,SmartRecruiters,Pending,null,null
