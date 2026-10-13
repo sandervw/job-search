@@ -1,6 +1,10 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Mastra,null,null,Ashby,Rejected,2026-10-12,"No confirmation email found so application date and role are unknown, only the rejection was located"
 OpenRouter,"Software Engineer, Enterprise",null,Ashby,Rejected,2026-09-23,"Fourth OpenRouter application; no confirmation email found so application date is unknown, only the rejection was located; also applied to Software Engineer, Product on 2026-09-19 (pending), Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03 (both rejected)"
 Empower,Senior Data Platform Engineer (R.0056639),null,Workday,Rejected,2026-10-02,"Third Empower application; no confirmation email found so application date is unknown, only the rejection was located"
+Thrive Market,"Staff Software Engineer, Fullstack",2026-10-12,Greenhouse,Rejected,2026-10-12,null
+Horizon3,Senior Product Analyst,2026-10-12,Ashby,Pending,null,null
+Workiva,Staff Data Engineer - GRC Enablement (OLTP),2026-10-12,Workday,Pending,null,Third Workiva role in tracker
 Optro,null,2026-10-11,Ashby,Pending,null,Role not named in confirmation email
 "Burq, Inc.",Staff Full-Stack Software Engineer,2026-10-11,Workable,Pending,null,null
 Mux,Senior Full Stack Engineer,2026-10-10,Ashby,Pending,null,null
@@ -154,7 +158,7 @@ Tempus,Senior Data Engineer,2026-09-06,Workday,Pending,null,null
 Chime Financial,"Software Engineer, AI Enablement",2026-09-06,Company careers site,Pending,null,null
 Komodo Health,null,2026-09-06,Greenhouse,Pending,null,Role not named in confirmation email
 Thomson Reuters,"Staff Software Engineer / Architect - AI, CoCounsel FDE (JREQ200171)",2026-09-05,Workday,Rejected,2026-09-11,null
-Rad AI,null,2026-09-05,Ashby,Pending,null,Role not named in confirmation email
+Rad AI,null,2026-09-05,Ashby,Rejected,2026-10-12,Role not named in confirmation email; rejection email names Senior Data Engineer
 DISCO,Enterprise AI Platform Engineer,2026-09-05,Greenhouse,Pending,null,null
 Cohere Health,"Sr. Software Engineer, Data Platform",2026-09-05,Company careers site,Rejected,2026-10-01,Health-tech company builds prior-authorization/utilization-management software for health insurance payers - flagging given no-insurance policy; application already submitted before this run
 Wikimedia Foundation,"Senior Software Engineer, Wikidata Platform",2026-09-04,Company careers site,Pending,null,null
