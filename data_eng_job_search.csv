@@ -1,5 +1,7 @@
 industry,State,Company Name,Job Listing,Date Added,Applied (Y/N)
 AdTech / MarTech,Remote,EDO,Senior Data Engineer - https://job-boards.greenhouse.io/edo/jobs/4990634007,2026-08-25,N
+AdTech / MarTech,Remote,Customer.io,"Staff Software Engineer, Product/AI - https://job-boards.greenhouse.io/customerio/jobs/8224814",2026-10-14,N
+AdTech / MarTech,Remote,Wpromote,Senior Data Engineer (B2B) - https://jobs.lever.co/wpromote/e3c2843c-ebae-4d42-8044-c866be0e0654,2026-10-14,N
 Cybersecurity,Remote,Drata,Senior AI Engineer - https://jobs.ashbyhq.com/drata/938b5802-714a-4843-bf43-4b03b3c0bf12,2026-08-26,Y
 Cybersecurity,Remote,Censys,Senior AI/LLM Engineer - https://job-boards.greenhouse.io/censys/jobs/8540995002,2026-08-26,Y
 Cybersecurity,Remote,Nudge Security,AI Engineer and Data Systems Architect - https://jobs.ashbyhq.com/nudgesecurity/f50639b0-03dc-485c-8392-d4fa38052a22,2026-08-26,N
@@ -26,7 +28,7 @@ SaaS / software vendors,Remote,Remote.com,Senior Forward Deployed Engineer (Remo
 SaaS / software vendors,Remote,G-P (Globalization Partners),Fullstack AI Engineer - https://job-boards.greenhouse.io/globalizationpartners/jobs/7979219003,2026-09-21,N
 SaaS / software vendors,Remote,Prefect,Senior Analytics Engineer - https://jobs.ashbyhq.com/prefect/d68d4231-c5f0-41e2-820a-9a5a9344ff6e,2026-09-21,Y
 SaaS / software vendors,Remote,Censys,Senior Machine Learning Engineer - https://job-boards.greenhouse.io/censys/jobs/8731027002,2026-10-02,N
-SaaS / software vendors,Remote,WorkOS,Applied AI Engineer - https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b,2026-10-13,N
+SaaS / software vendors,Remote,WorkOS,Applied AI Engineer - https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b,2026-10-13,Y
 Telecommunications,Remote,Twilio,"Staff, Business Intelligence Engineer - https://job-boards.greenhouse.io/twilio/jobs/8074762",2026-08-24,Y
 Consulting firms,Remote,Rearc,Lead Data Engineer - https://jobs.ashbyhq.com/rearc/ba0a8e95-c9a5-4963-aae6-02b447261353,2026-08-28,Y
 Consulting firms,Remote,Solvd,Forward Deployed Engineer – Agentic AI - https://jobs.ashbyhq.com/solvd/9392cbfe-177e-4f6f-9ec9-aa4edc90cd88,2026-08-28,Y
