@@ -1,10 +1,12 @@
 company_name,job_title,application_date,application_site,status,response_date,notes
+Substack,null,2026-10-16,Ashby,Pending,null,Role not named in confirmation email
+ServiceNow,Sr Staff AI Platform Engineer,2026-10-16,Company careers site,Pending,null,Third ServiceNow application
 Govstar,Senior Full Stack Python Developer,2026-10-15,Direct email,Pending,null,Applied via email to nicholas.hanson@govstar.us from Hacker News posting
 Unanet,null,2026-10-14,Company careers site,Pending,null,Role not named in confirmation email
 Mode Mobile,Sr. Data Engineer (Remote),2026-10-14,Company careers site,Pending,null,null
 Vida Health,Senior Data Engineer- Data Platform,2026-10-14,Lever,Pending,null,null
 WorkOS,Applied AI Engineer,2026-10-13,Ashby,Pending,null,null
-Epoch AI,null,2026-10-13,Lever,Pending,null,Role not named in confirmation email
+Epoch AI,null,2026-10-13,Lever,Rejected,2026-10-16,Role not named in confirmation email
 Thrive Market,"Staff Software Engineer, Fullstack",2026-10-12,Greenhouse,Rejected,2026-10-12,null
 Horizon3,Senior Product Analyst,2026-10-12,Ashby,Pending,null,null
 Workiva,Staff Data Engineer - GRC Enablement (OLTP),2026-10-12,Workday,Pending,null,Third Workiva role in tracker
@@ -78,7 +80,7 @@ Boosted.ai,Senior Software Engineer,2026-09-20,Greenhouse,Pending,null,null
 GitHub,Senior Software Engineer (2026-5770),2026-09-20,iCIMS,Rejected,2026-09-21,Second GitHub application (also applied to Senior Data Scientist (2026-5719) on 2026-08-20)
 Jellyfish,Full Stack Engineer,2026-09-19,Ashby,Pending,null,"Second Jellyfish application (also applied to Staff Data Engineer on 2026-08-04, rejected 2026-08-07)"
 OpenRouter,"Software Engineer, Product",2026-09-19,Ashby,Pending,null,"Third OpenRouter application (also applied to Applied AI Engineer on 2026-08-22 and Software Engineer, Platform on 2026-08-03, both rejected)"
-Red Ventures,Principal Engineer | The Points Guy,2026-09-19,Company careers site,Pending,null,null
+Red Ventures,Principal Engineer | The Points Guy,2026-09-19,Company careers site,Rejected,2026-10-16,null
 EquipmentShare,Analytics Engineer,2026-09-18,Greenhouse,Pending,null,null
 Maze,Full Stack Engineer,2026-09-18,Ashby,Rejected,2026-09-21,Rejected due to location/timezone requirement for the role
 Nous Research,General Pool Engineer,2026-09-18,Direct email,Pending,null,Third Nous Research application (also applied to Product Analytics Engineer on 2026-08-14 and Software Engineer on 2026-08-23); applied by emailing recruiting@nousresearch.com
